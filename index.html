@@ -11,7 +11,11 @@
     <noscript>
         <link rel="stylesheet" href="assets/css/noscript.css" />
     </noscript>
-
+    <style>
+        img {
+          border-radius: 50%;
+        }
+        </style>
 </head>
 
 <body class="is-preload">
@@ -50,9 +54,10 @@
             <!-- Intro -->
             <article id="intro">
                 <h2 class="major" style="width:100%; text-align:center;">Intro</h2>
-                <div style="width:100%;text-align:center;">
+                <div style="width:100%;text-align:center;border-radius: 50%;border-top-left-radius:50% 50%; border-top-right-radius: 50% 50%;border-bottom-right-radius: 50% 50%;border-bottom-left-radius: 50% 50%;">
 
-                    <span class="image main"><img align="middle" src="images/RachitL.jpg" alt="My Image" /></span>
+                    <img align="middle" border-radius: 50% src="images/RachitL.jpg" alt="My Image" style="width:400px"></span>
+                </div>
                     <p>I am currently a sophomore in the Computer Science and Engineering Department at the University of Texas at Arlington. </p>
             </article>
 
@@ -200,39 +205,7 @@ while (!deck.isInOrder()) {
 print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
                 </section>
 
-                <section>
-                    <h3 class="major">Lists</h3>
 
-                    <h4>Unordered</h4>
-                    <ul>
-                        <li>Dolor pulvinar etiam.</li>
-                        <li>Sagittis adipiscing.</li>
-                        <li>Felis enim feugiat.</li>
-                    </ul>
-
-                    <h4>Alternate</h4>
-                    <ul class="alt">
-                        <li>Dolor pulvinar etiam.</li>
-                        <li>Sagittis adipiscing.</li>
-                        <li>Felis enim feugiat.</li>
-                    </ul>
-
-                    <h4>Ordered</h4>
-                    <ol>
-                        <li>Dolor pulvinar etiam.</li>
-                        <li>Etiam vel felis viverra.</li>
-                        <li>Felis enim feugiat.</li>
-                        <li>Dolor pulvinar etiam.</li>
-                        <li>Etiam vel felis lorem.</li>
-                        <li>Felis enim et feugiat.</li>
-                    </ol>
-                    <h4>Icons</h4>
-                    <ul class="icons">
-                        <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                        <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                        <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-                        <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-                    </ul>
 
                     <h4>Actions</h4>
                     <ul class="actions">
@@ -243,101 +216,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
                         <li><a href="#" class="button primary">Default</a></li>
                         <li><a href="#" class="button">Default</a></li>
                     </ul>
-                </section>
-
-                <section>
-                    <h3 class="major">Table</h3>
-                    <h4>Default</h4>
-                    <div class="table-wrapper">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th>Name</th>
-                                    <th>Description</th>
-                                    <th>Price</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Item One</td>
-                                    <td>Ante turpis integer aliquet porttitor.</td>
-                                    <td>29.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Two</td>
-                                    <td>Vis ac commodo adipiscing arcu aliquet.</td>
-                                    <td>19.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Three</td>
-                                    <td> Morbi faucibus arcu accumsan lorem.</td>
-                                    <td>29.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Four</td>
-                                    <td>Vitae integer tempus condimentum.</td>
-                                    <td>19.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Five</td>
-                                    <td>Ante turpis integer aliquet porttitor.</td>
-                                    <td>29.99</td>
-                                </tr>
-                            </tbody>
-                            <tfoot>
-                                <tr>
-                                    <td colspan="2"></td>
-                                    <td>100.00</td>
-                                </tr>
-                            </tfoot>
-                        </table>
-                    </div>
-
-                    <h4>Alternate</h4>
-                    <div class="table-wrapper">
-                        <table class="alt">
-                            <thead>
-                                <tr>
-                                    <th>Name</th>
-                                    <th>Description</th>
-                                    <th>Price</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Item One</td>
-                                    <td>Ante turpis integer aliquet porttitor.</td>
-                                    <td>29.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Two</td>
-                                    <td>Vis ac commodo adipiscing arcu aliquet.</td>
-                                    <td>19.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Three</td>
-                                    <td> Morbi faucibus arcu accumsan lorem.</td>
-                                    <td>29.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Four</td>
-                                    <td>Vitae integer tempus condimentum.</td>
-                                    <td>19.99</td>
-                                </tr>
-                                <tr>
-                                    <td>Item Five</td>
-                                    <td>Ante turpis integer aliquet porttitor.</td>
-                                    <td>29.99</td>
-                                </tr>
-                            </tbody>
-                            <tfoot>
-                                <tr>
-                                    <td colspan="2"></td>
-                                    <td>100.00</td>
-                                </tr>
-                            </tfoot>
-                        </table>
-                    </div>
                 </section>
 
                 <section>
