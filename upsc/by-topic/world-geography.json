@@ -1,0 +1,884 @@
+[
+  {
+    "id": "2024-009",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "The longest border between any two countries in the world is between:",
+    "options": {
+      "A": "Canada and the United States of America",
+      "B": "Chile and Argentina",
+      "C": "China and India",
+      "D": "Kazakhstan and Russian Federation"
+    },
+    "correct_answer": "A",
+    "explanation": "Canada and the United States share the longest international border in the world, spanning a massive 8,890 kilometres.",
+    "subject": "World Geography",
+    "topic": "Human and Economic Geography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-017",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following countries:\\n1. Italy\\n2. Japan\\n3. Nigeria\\n4. South Korea\\n5. South Africa\\n\\nWhich of the above countries are frequently mentioned in the media for their low birth rates, or ageing population or declining population?",
+    "options": {
+      "A": "1, 2 and 4",
+      "B": "1, 3 and 5",
+      "C": "2 and 4 only",
+      "D": "3 and 5 only"
+    },
+    "correct_answer": "A",
+    "explanation": "Recently Italy, Japan and South Korea are frequently mentioned in the media for their low birth rates, aging population or declining population.\\n\\nSouth Korea's fertility rate is the lowest in the world, with the UN warning in 2021 that South Korea was on track to halve its population by 2100.\\n\\nJapan is facing a significant demographic challenge with record-low birth rates for the eighth consecutive year. The current fertility rate for Japan in 2024 is 1.374 births per woman.\\n\\nItaly's birth rate dropped to a record low in 2023, marking the 15th consecutive annual decline. The fertility rate fell to 1.20 children per woman, far below the rate of 2.1 needed for a steady population.\\n\\nSouth Africa and Nigeria are not facing these issues to the same extent as the other countries mentioned.",
+    "subject": "World Geography",
+    "topic": "Human and Economic Geography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-028",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statement:\\nStatement I: Sumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.\\nStatement-II: Sumed pipeline connects the Red Sea with the Mediterranean Sea.\\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "A": "Both Statement-I and Statement-II are correct and Statement-II explains. Statement-I",
+      "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "C": "Statement-I is correct, but Statement-II is incorrect",
+      "D": "Statement-I is incorrect, but Statement-II is correct"
+    },
+    "correct_answer": "A",
+    "explanation": "The Suez Canal and the SUMED Pipeline are strategic routes for Persian Gulf crude oil, petroleum products, and liquefied natural gas (LNG) shipments to Europe and North America. Hence, statement I is correct.\\n\\nThe Suez Canal and SUMED pipeline are located in Egypt and connect the Red Sea with the Mediterranean Sea. Hence, statement II is correct.\\n\\nTherefore, Both statement I and statement II are correct and statement II explains statement I.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-029",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. The Red Sea receives very little precipitation in any form.\\n2. No water enters the Red Sea from rivers.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "Red Sea, narrow strip of water extending southeastward from Suez, Egypt, for about 1,200 miles (1,930 km) to the Bab el-Mandeb Strait, which connects with the Gulf of Aden and thence with the Arabian Sea.\\n\\nThe Red Sea region receives very little precipitation in any form, although prehistoric artifacts indicate that there were periods with greater amounts of rainfall. Hence, statement 1 is correct.\\n\\nNo water enters the Red Sea from rivers, and rainfall is scant; but the evaporation loss—in excess of 80 inches per year—is made up by an inflow through the eastern channel of the Bab el-Mandeb Strait from the Gulf of Aden. Hence, statement 2 is correct.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-051",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements :\\nStatement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\\nStatement-II : Carbon dioxide and other greenhouse gases in the atmosphere good absorbers of long wave radiation\\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "A": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "C": "Statement-I is correct, but Statement-II is incorrect",
+      "D": "Statement-I is incorrect, but Statement-II is correct"
+    },
+    "correct_answer": "D",
+    "explanation": "The earth radiates heat energy like all other hot objects. This is known as terrestrial radiation. Incoming solar radiation through short waves is termed as insolation. Radiation is the process by which solar energy reaches the earth and the earth loses energy to outer space. Atmosphere is transparent to short waves and opaque to long waves. Hence energy leaving the earth's surface i.e. terrestrial radiation heats up the atmosphere more than the incoming solar radiation i.e. insolation. Hence, statement 1 is not correct. Longwave radiation is absorbed by atmospheric gases, particularly carbon dioxide and other greenhouse gases. Hence, statement 2 is correct.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-052",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements :\\nStatement-I: Thickness of the troposphere at the equator is much greater as compared to poles.\\nStatement-II: At the equator, heat is transported to great heights by strong convectional currents.\\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "A": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "B": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "C": "Statement-I is correct, but Statement-II is incorrect",
+      "D": "Statement-I is incorrect, but Statement-II is correct"
+    },
+    "correct_answer": "A",
+    "explanation": "The troposphere is the lowermost layer of the atmosphere. Its average height is 13 km and extends roughly to a height of 8 km near the poles and about 18 km at the equator. Troposphere is thickest at the equator, and much thinner at the North and South Poles Hence, statement 1 is correct. Thickness of the troposphere is greatest at the equator because heat is transported to great heights by strong convection currents. Hence, statement 2 is correct and it is the correct explanation of statement 1.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-053",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following :\\n1. Pyroclastic debris 2. Ash and dust\\n3. Nitrogen compounds 4. Sulphur compounds\\nHow many of the above are products of volcanic eruptions?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "Only three",
+      "D": "All four"
+    },
+    "correct_answer": "D",
+    "explanation": "A Volcanic Hazard refers to any potentially dangerous volcanic process that puts human lives, livelihoods or infrastructure at risk of harm. Several hazards may affect the area around the volcano, such as lava flows, pyroclastic flows, lahars, landslides or debris avalanches. Volcanic activity also produces hazards that can affect areas far from the volcano, such as ash falls or tephra and releases of gas. Ninety-nine percent of the gas molecules emitted during a volcanic eruption are water vapor (H2O), carbon dioxide (CO2), and sulfur dioxide (SO2). The remaining one percent is composed of small amounts of hydrogen sulfide, carbon monoxide, hydrogen chloride, hydrogen fluoride, and other minor gas species. Volcanoes do not directly release usable forms of nitrogen. The intense activity during eruptions can trigger lightning strikes. These lightning strikes break apart nitrogen molecules (N2) in the air, allowing nitrogen atoms to combine with other elements to form usable nitrogen compounds.",
+    "subject": "World Geography",
+    "topic": "Geomorphology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-054",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?\\n1. The isotherms deviate to the north over the ocean and to the south over the continent.\\n2. The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north.\\nSelect the answer using the code given below :",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "A",
+    "explanation": "Isotherms are imaginary lines that connect points having the same temperature at a given time or on average over a given period. These lines are used in meteorology and climatology to represent temperature distributions across geographical areas. In January the isotherms deviate to the north over the ocean and to the south over the continent. This can be seen on the North Atlantic Ocean. Hence, statement 1 is correct. The presence of warm ocean currents, Gulf Stream and North Atlantic drift, make the Northern Atlantic Ocean warmer and the isotherms bend towards the north. Hence, statement 2 is not correct. Over the land the temperature decreases sharply and the isotherms bend towards south in Europe.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-055",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Which of the following countries are well known as the two largest cocoa producers in the world?",
+    "options": {
+      "A": "Algeria and Morocco",
+      "B": "Botswana and Namibia",
+      "C": "Code d'Ivoire and Ghana",
+      "D": "Madagascar and Mozambique"
+    },
+    "correct_answer": "C",
+    "explanation": "Côte d'Ivoire and Ghana are the two largest cocoa-growing countries, accounting for nearly 60% of global cocoa production, followed by Ecuador with 9%. With 2.2 million tonnes of cocoa in 2022, Côte d'Ivoire is the world's largest producer, accounting for a third (30 %) of the global total. Familiar brands like Cadbury and Nestle mostly source their cocoa from this country. Ghana is another top producer of cocoa. The production of cocoa contributes significantly to the nation's GDP. In Asia, Indonesia is the largest producer. West Africa hosts the world's leading cocoa-producing countries, generating 3.9 million tonnes in 2022.",
+    "subject": "World Geography",
+    "topic": "Human and Economic Geography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-057",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements :\\nStatement-I: Rainfall is one\"of the reasons for weathering of rocks.\\nStatement-II: Rain water contains carbon dioxide in solution.\\nStatement-III: Rain water contains atmospheric oxygen.\\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "A": "Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+      "B": "Both Statement-II and Statement-III are correct, but only one of them explains Statement-I",
+      "C": "Only one of the Statements II and III is correct and that explains Statement-I",
+      "D": "Neither Statement-II nor Statement-III is correct"
+    },
+    "correct_answer": "A",
+    "explanation": "Weathering is a term which describes the general process by which rocks are broken down at the Earth's surface into such things as sediments, clays, soils and substances that are dissolved in water. Weathering can be biological, chemical or physical. Rainfall and temperature can affect the rate in which rocks weather. Greater rainfall increases the rate of chemical weathering. Rocks in tropical regions exposed to abundant rainfall and hot temperatures weather much faster than similar rocks residing in cold, dry regions. Hence, statement I is correct. Carbon dioxide from the air is dissolved in rainwater, making it slightly acidic. Normal rain has a pH of about 5.6, it is slightly acidic because carbon dioxide (CO2) dissolves into it forming weak carbonic acid. Hence, statement II is correct. A reaction can occur when the rainwater comes into contact with minerals in the rock, causing weathering. Acid rain usually has a pH between 4.2 and 4.4. Oxygen is one of the most important elements collected from falling rainwater. This dissolved oxygen is not the same as the oxygen in the water molecule. Dissolved oxygen is present in all rainwater and surface supplies due to contact with the atmosphere. Hence, statement III is correct. Rainwater is typically devoid of all dissolved solids but contains dissolved gases (oxides of carbon, nitrogen and sulphur) which result in pH values of about 5.5 or lower. From the above, we can conclude that both statement II and statement III are correct and explain statement I.",
+    "subject": "World Geography",
+    "topic": "Geomorphology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-058",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following countries :\\n1. Finland 2. Germany\\n3. Norway 4. Russia\\nHow many of the above countries have a border with the North Sea?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "Only three",
+      "D": "All four"
+    },
+    "correct_answer": "B",
+    "explanation": "The North Sea is one of the numerous seas in the Atlantic Ocean. It is part of the North-East Atlantic Region and opens into the Atlantic Ocean via the English Channel. It is the Atlantic's 13th largest sea, covering approximately 570,000 square kilometres or about 0.5% of the ocean. It is about 970 km long and 580 km wide and lies within Europe's north-west continental shelf. The North Sea region borders some of the strongest economies in Europe. To the west of the sea is Great Britain (Scotland and England). The Northern and Central European countries such as Germany, Belgium, Denmark, the Netherlands, and Norway bound the sea to the east and west. Finland and Russia do not share a border with the North Sea.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-060",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following information:\\n\\nRegion Name of the mountain range Type of mountain\\n1. Central Asia Vosges Fold mountain\\n2. Europe Alps Block mountain\\n3. North America Appalachians Fold mountain\\n4. South America Andes Fold mountain\\n\\nIn how many of the above rows is the given information correctly matched?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "Only three",
+      "D": "All four"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct explanation is:\\n1. Pair 1 is incorrect: The Vosges mountain is in Europe (not Central Asia) and is a Block mountain, not a Fold mountain.\\n2. Pair 2 is incorrect: The Alps are Fold mountains, not Block mountains.\\n3. Pair 3 is correct: The Appalachians in North America are indeed Fold mountains.\\n4. Pair 4 is correct: The Andes in South America are correctly identified as Fold mountains.\\n\\nTherefore, only two pairs (3 and 4) are correctly matched.",
+    "subject": "World Geography",
+    "topic": "Geomorphology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-073",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following description:\\n1. Annual and daily range of temperatures is low.\\n2. Precipitation occurs throughout the year.\\n3. Precipitation varies between 50 cm - 250 cm.\\n\\nWhat is this type of climate?",
+    "options": {
+      "A": "Equatorial climate",
+      "B": "China type climate",
+      "C": "Humid subtropical climate",
+      "D": "Marine West coast climate"
+    },
+    "correct_answer": "D",
+    "explanation": "Marine west coast climate is located poleward from the Mediterranean climate on the west coast of the continents. The main areas are: Northwestern Europe, west coast of North America, north of California, southern Chile, southeastern Australia and New Zealand.\\n\\nDue to marine influence, the temperature is moderate and in winter, it is warmer than for its latitude. The mean temperature in summer months ranges from 15°- 20°C and in winter 4°-10°C. The annual and daily ranges of temperature are small. Precipitation occurs throughout the year. Precipitation varies greatly from 50-250cm.",
+    "subject": "World Geography",
+    "topic": "World Climatic Regions",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-075",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "On June 21 every year, which of the following latitude(s) experience(s) a sunlight of more than 12 hours?\\n1. Equator\\n2. Tropic of Cancer\\n3. Tropic of Capricorn\\n4. Arctic Circle",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "3 and 4",
+      "D": "2 and 4"
+    },
+    "correct_answer": "D",
+    "explanation": "On 21st June, the Northern Hemisphere is tilted towards the sun. The rays of the sun fall directly on the Tropic of Cancer. The North Pole is inclined towards the sun and the places beyond the Arctic Circle experience continuous daylight for about six months.\\n\\nThe further north one moves from the equator, the more light one receives during the summer solstice. At the Arctic Circle, the sun never sets during the solstice.\\n\\nSince a large portion of the Northern Hemisphere is getting light from the sun, it is summer in the regions north of the equator. The longest day and the shortest night at these places occur on 21st June.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-034",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following statements:\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\nHow many of the above statements are correct?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "All three",
+      "D": "None"
+    },
+    "correct_answer": "A",
+    "explanation": "Statement 1 is incorrect: While India has the largest cropland (arable land) in the world, with 179.8 million hectares compared to the US's 167.8 million hectares and China’s 165.2 million hectares, various reports suggest that UPSC might have considered this statement incorrect. We will update the source if further information becomes available.\n\nStatement 2 is correct: China’s irrigation coverage stands at 41% of its cultivated area, while India’s is higher at 48%, indicating that India has a greater proportion of irrigated land.\n\nStatement 3 is incorrect: Despite having less cultivated land, China’s total sown area is 166 million hectares, compared to India’s gross cropped area of 198 million hectares. However, China’s agricultural output is valued at $1,367 billion, more than three times India’s $407 billion. China’s productivity in most crops is 50 to 100% higher than India’s.\n\nNote: Although various sources suggest that the correct answer should be Option B, the UPSC Official Answer Key lists the correct answer as Option A.",
+    "subject": "World Geography",
+    "topic": "Human and Economic Geography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-037",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+    "options": {
+      "A": "Argentina",
+      "B": "Botswana",
+      "C": "the Democratic Republic of the Congo",
+      "D": "Kazakhstan"
+    },
+    "correct_answer": "C",
+    "explanation": "The Democratic Republic of the Congo (DRC) is responsible for producing approximately 70-80% of the world's cobalt. This metal is essential for the production of batteries used in electric vehicles and other electronics, making the DRC a key player in the global cobalt supply chain.",
+    "subject": "World Geography",
+    "topic": "Human and Economic Geography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-038",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Which one of the following is a part of the Congo Basin?",
+    "options": {
+      "A": "Cameroon",
+      "B": "Nigeria",
+      "C": "South Sudan",
+      "D": "Uganda"
+    },
+    "correct_answer": "A",
+    "explanation": "The Congo Basin, one of the world's largest tropical rainforests, spans several countries in Central Africa. Cameroon is one of the countries that forms part of this basin, which is crucial for biodiversity and climate regulation.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-071",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following countries: \n1. Bulgaria \n2. Czech Republic \n3. Hungary \n4. Latvia \n5. Lithuania \n6. Romania\nHow many of the above-mentioned countries share a land border with Ukraine?",
+    "options": {
+      "A": "Only two",
+      "B": "Only three",
+      "C": "Only four",
+      "D": "Only five"
+    },
+    "correct_answer": "A",
+    "explanation": "Ukraine shares a land border with Hungary, Romania, Poland, Slovakia, Belarus, and Moldova. Among the listed countries, Bulgaria, Hungary, Romania, and Poland share borders with Ukraine. Thus, only three of the listed countries share a land border with Ukraine.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-072",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "With reference to the Earth's atmosphere, which one of the following statements is correct?",
+    "options": {
+      "A": "The total amount of insolation received at the equator is roughly about 10 times of that received at the poles.",
+      "B": "Infrared rays constitute roughly two-thirds of insolation.",
+      "C": "Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.",
+      "D": "Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation."
+    },
+    "correct_answer": "C",
+    "explanation": "Infrared waves are largely absorbed by water vapor in the lower atmosphere. Water vapor, along with other greenhouse gases, traps infrared radiation, preventing it from escaping back into space. This absorption plays a significant role in regulating Earth's temperature. Hence, the correct statement is that infrared waves are largely absorbed by water vapor in the lower atmosphere.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-074",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following statements:\nStatement-I: The temperature contrast between continents and oceans is greater during summer than in winter.\nStatement-II: The specific heat of water is more than that of land surface.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "A": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "B": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "C": "Statement-I is correct but Statement-II is incorrect",
+      "D": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correct_answer": "D",
+    "explanation": "Statement 1 is incorrect: The statement is incorrect because the temperature contrast between continents and oceans is greater during winter, not summer.\n\nStatement 2 is correct: This statement is true. Specific heat refers to the amount of heat energy needed to raise the temperature of a substance by a certain amount. Water has a higher specific heat compared to land surfaces, meaning it requires more heat energy to raise its temperature compared to an equal mass of land. This is due to water's molecular structure and hydrogen bonding, which allow it to absorb and store a significant amount of heat energy.\n\nExplanation: The higher specific heat of water (Statement 2) explains the temperature contrast between continents and oceans, but primarily during winter, not summer as mentioned in Statement 1. Land surfaces heat up quickly due to their lower specific heat, causing land temperatures to rise rapidly during summer. In contrast, the ocean heats up more slowly due to its higher specific heat, absorbing and storing more heat energy. While this does create temperature differences between land and ocean, the contrast is more pronounced in winter when the land cools faster than the ocean.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-075",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following statements: \n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "In a seismograph, P-waves (primary waves) are recorded earlier than S-waves (secondary waves). P-waves cause particles to vibrate in the direction of propagation, while S-waves cause particles to vibrate perpendicular to the wave direction. Thus, both statements are correct.",
+    "subject": "World Geography",
+    "topic": "Geomorphology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-018",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "In the northern hemisphere, the longest day of the year normally occurs in the:",
+    "options": {
+      "A": "First half of the month of June",
+      "B": "Second half of the month of June",
+      "C": "First half of the month of July",
+      "D": "Second half of the month of July"
+    },
+    "correct_answer": "B",
+    "explanation": "Since a large portion of the Northern Hemisphere is getting light from the sun, it is summer in the regions north of the equator. The longest day and the shortest night at these places occur on 21st June (i.e. second half of the month of June). At this time in the Southern Hemisphere all these conditions are reversed. It is winter there. The nights are longer than the days. This position of the earth is called the Summer Solstice.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-019",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\\n1. GPS and navigation systems could fail.\\n2. Tsunamis could occur at equatorial regions.\\n3. Power grids could be damaged.\\n4. Intense auroras could occur over much of the Earth.\\n5. Forest fires could take place over much of the planet.\\n6. Orbits of the satellites could be disturbed.\\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1, 2, 4 and 5 only",
+      "B": "2, 3, 5, 6 and 7 only",
+      "C": "1, 3, 4, 6 and 7 only",
+      "D": "1, 2, 3, 4, 5, 6 and 7"
+    },
+    "correct_answer": "C",
+    "explanation": "A solar flare is an intense burst of radiation coming from the release of magnetic energy associated with sunspots. The explosive heat of a solar flare can't make it all the way to our globe (Hence Statement 5 can be said wrong), but electromagnetic radiation and energetic particles certainly can. Solar flares can temporarily alter the upper atmosphere creating disruptions with signal transmission from, say, a GPS satellite to Earth causing it to be off by many yards. Another phenomenon produced by the sun could be even more disruptive. Known as a coronal mass ejection or CME, these solar explosions propel bursts of particles and electromagnetic fluctuations into Earth's atmosphere. Those fluctuations could induce electric fluctuations at ground level that could blow out transformers in power grids. A CME's particles can also collide with crucial electronics onboard a satellite and disrupt its systems. A tsunami is a long, high sea wave caused by an earthquake or oceanic volcanic activity. Similarly, a forest fire can not be caused directly by solar flares as they are not too powerful to burn the earth's surface.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-020",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nRivers Flows into\\n1. Mekong Andaman Sea\\n2. Thames Irish Sea\\n3. Volga Caspian Sea\\n4. Zambezi Indian Ocean\\nWhich of the pairs given above is/are correctly matched?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "3 and 4 only",
+      "D": "1, 2 and 4 only"
+    },
+    "correct_answer": "C",
+    "explanation": "Pair 1 is not correctly matched: The Mekong River flows through six countries: China, Myanmar, Thailand, Lao PDR, Cambodia, and Vietnam. It flows into the South China Sea, not the Andaman Sea.\\n\\nPair 2 is not correctly matched: River Thames flows into the North Sea, not the Irish Sea.\\n\\nPair 3 is correctly matched: The Volga River flows into the Caspian Sea.\\n\\nPair 4 is correctly matched: The Zambezi River flows into the Indian Ocean.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-017",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "On 21st June, the Sun:",
+    "options": {
+      "A": "does not set below the horizon at the Arctic Circle.",
+      "B": "does not set below the horizon at the Antarctic Circle.",
+      "C": "shines vertically overhead at noon on the Equator.",
+      "D": "shines vertically overhead at the Tropic of Capricorn."
+    },
+    "correct_answer": "A",
+    "explanation": "On 21st June, the Northern Hemisphere is tilted towards the Sun. The rays of the Sun fall directly on the Tropic of Cancer. As a result, these areas receive more heat. The areas near the poles receive less heat as the rays of the Sun are slanting. The North Pole is inclined towards the Sun and the places beyond the Arctic Circle experience continuous daylight for about six months, meaning the Sun does not set below the horizon at the Arctic Circle.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-023",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. The Earth's magnetic field has reversed every few hundred thousand years.\\n2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.\\n3. When living organisms originated, they modified the early atmosphere of the Earth.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is correct: The Earth's magnetic field has flipped its polarity many times over the millennia. Earth has settled in the last 20 million years into a pattern of a pole reversal about every 200,000 to 300,000 years.\\n\\nStatement 2 is not correct: When the Earth was created more than 4000 million years ago, it was a barren, rocky and hot object with a thin atmosphere of hydrogen and helium. The early atmosphere was probably mostly carbon dioxide, with little or no oxygen.\\n\\nStatement 3 is correct: There are three stages in the evolution of the present atmosphere. The first stage is marked by the loss of the primordial atmosphere. In the second stage, the hot interior of the earth contributed to the evolution of the atmosphere. Finally, the composition of the atmosphere was modified by the living world through the process of photosynthesis.",
+    "subject": "World Geography",
+    "topic": "The Earth and the Universe",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-016",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "What explains the eastward flow of the equatorial counter-current?",
+    "options": {
+      "A": "The Earth's rotation on its axis",
+      "B": "Convergence of the two equatorial currents",
+      "C": "Difference in salinity of water",
+      "D": "Occurrence of the belt of calm near the equator"
+    },
+    "correct_answer": "B",
+    "explanation": "Equatorial counter-currents are driven by a distinct surface wind pattern in the tropics. Strong westward trade winds result in westward surface flow in most of the tropical Atlantic and Pacific Oceans. The stronger winds to the south pile up water where the winds are weak. The excess water flows eastward under the influence of the Earth's rotation, giving rise to equatorial counter-currents.",
+    "subject": "World Geography",
+    "topic": "Geomorphology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-020",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth.\\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause a warming effect.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Statement 1 is incorrect: High clouds are often thin and do not reflect very much. They let lots of the Sun's warmth in. They radiate less energy into space than the lower, warmer clouds. Therefore, high clouds work to 'trap' more energy than the low clouds.\\n\\nStatement 2 is incorrect: Low clouds are often quite thick and reflect lots of sunlight back to space. Low clouds are excellent reflectors. But, they don't stop the longwave energy from escaping to space. Therefore, low clouds help to cool the Earth.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-021",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. Jet streams occur in the Northern Hemisphere only.\\n2. Only some cyclones develop an eye.\\n3. The temperature inside the eye of a cyclone is nearly 10°C less than that of the surroundings.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "2 only",
+      "D": "1 and 3 only"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is not correct: Jet streams occur both in the Northern Hemisphere as well as in the Southern Hemisphere.\\n\\nStatement 2 is correct: The hurricane's centre is a relatively calm and clear area of sinking air and light winds that usually do not exceed 15 mph (24 km/h) and is typically 20-40 miles (32-64 km) across. An eye will usually develop when the maximum sustained wind speeds go above 74 mph (119 km/h) and is the calmest part of the storm. Hence, only some cyclones develop an eye.\\n\\nStatement 3 is not correct: The eye is the region of lowest surface pressure and warmest temperatures. The eye temperature may be 10°C warmer or more at an altitude of 12 km than the surrounding environment, but only 0-2°C warmer at the surface in the tropical cyclone.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-018",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Why are dewdrops not formed on a cloudy night?",
+    "options": {
+      "A": "Clouds absorb the radiation released from the Earth's surface.",
+      "B": "Clouds reflect back the Earth's radiation.",
+      "C": "The Earth's surface would have low temperatures on cloudy nights.",
+      "D": "Clouds deflect the blowing wind to ground level."
+    },
+    "correct_answer": "B",
+    "explanation": "Dewdrops are not formed on a cloudy night because clouds reflect back the Earth's radiation. Dew is formed when the atmospheric temperature draws the level to the dewpoint temperature. This often happens at ground level for two reasons. First, longwave emission causes the Earth's surface to cool at night and condensation requires the temperature to decrease to the dew point. Second, the soil often acts as the moisture source for dew. Warm and moist soils will help with the formation of dew as the soil cools overnight.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-017",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Which of the following statements about El Niño are true?\\n1. El Niño refers to the warm phase of the El Niño-Southern Oscillation (ENSO).\\n2. During an El Niño event, the trade winds weaken, and the warm water shifts eastward toward South America.\\n3. El Niño events lead to increased rain and flooding in areas like the western coast of South America.\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2, and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "All three statements are correct. El Niño refers to the warm phase of the El Niño-Southern Oscillation (ENSO). During an El Niño event, the trade winds that typically push warm water towards the western Pacific weaken, causing the warm water to shift eastward toward South America. This leads to increased rainfall and flooding in regions like the western coast of South America, while causing drier conditions in other parts of the world.",
+    "subject": "World Geography",
+    "topic": "Climatology",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-021",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. In the tropical zone, the western sections of the oceans are warmer than the eastern sections owing to the influence of trade winds.\\n2. In the temperate zone, westerlies make the eastern sections of oceans warmer than the western sections.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is correct: Trade wind generates the equatorial current which pushes eastern section water in the western section. Statement 2 is correct: Warm water comes in contact with the Westerlies. They are moved into eastern part so In the temperate zone, westerlies make the eastern sections of oceans warmer than the western sections.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-022",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "With reference to the water on the planet Earth, consider the following statements:\\n1. The amount of water in the rivers and lakes is more than the amount of groundwater.\\n2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "B",
+    "explanation": "Earth is known as the \"Blue Planet'' because 71 per cent of the Earth's surface is covered with water. Distribution of the water on Earth: Ocean water: 97.2 percent, Glaciers and other ice: 2.15 percent, Groundwater: 0.61 percent, Freshwater lakes: 0.009 percent, Inland seas: 0.008 percent, Soil Moisture: 0.005 percent, Atmosphere: 0.001 percent, Rivers: 0.0001 percent. Hence, statement 1 is not correct, but statement 2 is correct.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-022",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?\\n1. OMT is measured up to a depth of 26°C isotherm which is 129 metres in the south-western Indian Ocean during January – March.\\n2. OMT collected during January March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: The Ocean Mean Temperature (OMT) is measured up to a depth of 26 degree C isotherm, is more stable and consistent, and the spatial spread is also less. The 26 degree C isotherm is seen at depths varying from 50 –100 metres. During January –March, the mean 26 degree C isotherm depth in the Southwestern Indian Ocean is 59 metres. Statement 2 is correct: Ocean heat content (OHC) and Ocean Mean Temperature (OMT) are important climatic parameters required for atmospheric and oceanic studies like cyclone and monsoon predictions and ocean heat transport estimations. Sea surface temperature (SST) is routinely used for predicting if the total amount of rainfall that India receives during the monsoon season will be less or more than the long term mean of 887.5 mm.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-024",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. Most of the world's coral reefs are in tropical waters.\\n2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines.\\n3. Coral reefs host far more animal phyla than those hosted by tropical rainforests.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "Statement 1 is correct: Mostly the coral reefs are in tropical waters, located between the Tropics of Cancer and Capricorn, in the Pacific Ocean, the Indian Ocean, the Caribbean Sea, the Red Sea, and the Persian Gulf. Statement 2 is correct: Indonesia, followed by Australia and the Philippines are the largest reef nations, while France comes in fourth. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia, and Philippines. Statement 3 is correct: Coral reefs are the most diverse of all marine ecosystems. Reefs cover just a tiny fraction (less than one percent) of the earth's surface and less than two percent of the ocean bottom. Because they are so diverse, coral reefs are often called the rainforests of the sea. Coral reefs host a greater number of animal phyla than those hosted by tropical rainforests.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-025",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Which of the following has/have shrunk immensely/dried up the recent past due to human activities?\\n1. Aral Sea\\n2. Black Sea\\n3. Lake Baikal\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "2 only",
+      "D": "1 and 3 only"
+    },
+    "correct_answer": "A",
+    "explanation": "Option (a) is correct: Decades ago, the Aral Sea was the world's fourth largest body of inland water, but it has shrunk immensely due to diversion of rivers for irrigation (human activities). Two decades ago, it split into the small northern and larger southern sections, and further divisions have been happening ever since. Moreover, in the 1960s, the Soviet Union undertook major water diversion projects on the Syr Darya and Amu Darya rivers, capturing water that once fed into the Aral Sea. Black Sea is often seen in the news in the context of Russian affairs. Habitable area in Black Sea is shrinking, but the actual volume is not shrinking immensely. In 2015, Russia officially declared Lake Baikal an emergency zone because of a catastrophic drop in its water level. It is shrinking but the fate is not immense. It is not dried up.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-018",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclones do not originate. What is the reason?",
+    "options": {
+      "A": "Sea surface temperatures are low",
+      "B": "Inter-Tropical Convergence Zone seldom occurs",
+      "C": "Coriolis force is too weak",
+      "D": "Absence of land in those regions"
+    },
+    "correct_answer": "B",
+    "explanation": "Option (b) is correct: In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclones do not originate due to the Inter-tropical Convergence Zone, which seldom occurs. The Intertropical Convergence Zone (ITZC), which shifts toward the north in our summer and toward the south in the southern summer, usually stays at or north of the equator in the Atlantic Ocean. A broad convergence zone like this need to reach about 5 degrees of latitude away from the equator in order for the Coriolis Force to have sufficient intensity to organise a full-fledged tropical cyclone, and the Atlantic ITCZ almost never shift that far south, while the Monsoon trough in the Indian and Australian basins, and the western South Pacific, regularly do so.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-019",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Tides occur in the oceans and seas due to which among the following?\\n1. Gravitational force of the Sun\\n2. Gravitational force of the Moon\\n3. Centrifugal force of the Earth\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "The moon's gravitational pull to a great extent and to a lesser extent the sun's gravitational pull, are the major causes for the occurrence of tides. Another factor is the centrifugal force of the Earth, which is the force that acts to counterbalance the gravity. Together, the gravitational pull and the centrifugal force are responsible for creating the two major tidal bulges on the earth. On the side of the earth facing the moon, a tidal bulge occurs while on the opposite side though the gravitational attraction of the moon is less as it is farther away, the centrifugal force causes tidal bulge on the other side. The 'tide-generating' force is the difference between these two forces, i.e. the gravitational attraction of the moon and the centrifugal force.",
+    "subject": "World Geography",
+    "topic": "Oceanography",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-020",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Consider the following States:\\n1. Arunachal Pradesh\\n2. Himachal Pradesh\\n3. Mizoram\\nIn which of the above States do 'Tropical Wet Evergreen Forests' occur?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "explanation": "The Tropical Wet Evergreen Forests are found in the western slope of the Western Ghats, hills of the north-eastern region (Assam, Arunachal Pradesh, Meghalaya, Mizoram, Nagaland, Tripura, West Bengal) and the Andaman and Nicobar Islands. They are found in warm and humid areas with annual precipitation of over 200 cm and mean annual temperature above 22°C.",
+    "subject": "World Geography",
+    "topic": "World Climatic Regions",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-021",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "\"Each day is more or less the same, the morning is clear and bright with a sea breeze; as the Sun climbs high in the sky, heat mounts up, dark clouds form, then rain comes with thunder and lightning. But the rain is soon over.\" Which of the following regions is described in the above passage?",
+    "options": {
+      "A": "Savannah",
+      "B": "Equatorial",
+      "C": "Monsoon",
+      "D": "Mediterranean"
+    },
+    "correct_answer": "B",
+    "explanation": "In the equatorial region, the annual rainfall is high as it rains almost every day. The temperatures are constant all year round – the temperature range is usually only a few degrees. There are no seasons. Each day is more or less the same, the morning is clear and bright with a sea breeze; as the Sun climbs high in the sky, heat mounts up, dark clouds form, then rain comes with thunder and lightning. But the rain is soon over.",
+    "subject": "World Geography",
+    "topic": "World Climatic Regions",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-021",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following countries:\\n1. Azerbaijan\\n2. Kyrgyzstan\\n3. Tajikistan\\n4. Turkmenistan\\n5. Uzbekistan\\nWhich of the above have borders with Afghanistan?",
+    "options": {
+      "A": "1, 2 and 5 only",
+      "B": "1, 2, 3 and 4 only",
+      "C": "3, 4 and 5 only",
+      "D": "1, 2, 3, 4 and 5"
+    },
+    "correct_answer": "C",
+    "explanation": "Afghanistan shares borders with Iran, Pakistan, Turkmenistan, Tajikistan, Uzbekistan, China and India.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-022",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "The term \"Levant\" often heard in the news roughly corresponds to which of the following regions?",
+    "options": {
+      "A": "Region along the eastern Mediterranean shores",
+      "B": "Region along North African shores stretching from Egypt to Morocco",
+      "C": "Region along Persian Gulf and Horn of Africa",
+      "D": "The entire coastal areas of Mediterranean Sea"
+    },
+    "correct_answer": "A",
+    "explanation": "From the beginning of civilization, the Levant, the coastal region of the eastern Mediterranean from Syria in the north to Egypt in the south, was the crossroads of various peoples and cultures. From this important trade region, fundamental social and economic changes began spreading across the Middle East and the Mediterranean, leaving behind a rich heritage of unique material remains.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-023",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Which one of the following lakes of West Africa has become dry and turned into a desert?",
+    "options": {
+      "A": "Lake Victoria",
+      "B": "Lake Faguibine",
+      "C": "Lake Oguta",
+      "D": "Lake Volta"
+    },
+    "correct_answer": "B",
+    "explanation": "The Lake Faguibine System, four interlinked lakes 80 km west of Timbuktu, was historically one of Mali's most fertile areas. But over seven years, droughts in the 1970s dried up the lakes. Then sand filled the channels connecting the lakes to the River Niger, with the result that when rain finally returned the water could no longer reach the lakes. The region's prosperity evaporated along with the water.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-024",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nRegion often mentioned in the news - Country\\n1. Anatolia - Turkey\\n2. Amhara - Ethiopia\\n3. Cabo Delgado - Spain\\n4. Catalonia - Italy\\nHow many pairs given above are correctly matched?",
+    "options": {
+      "A": "Only one pair",
+      "B": "Only two pairs",
+      "C": "Only three pairs",
+      "D": "All four pairs"
+    },
+    "correct_answer": "B",
+    "explanation": "1. Anatolia—Turkey (pair 1 is correctly matched)\\n2. Amhara—Ethiopia (pair 2 is correctly matched)\\n3. Cabo Delgado—Mozambique (pair 3 is not correctly matched)\\n4. Catalonia—Spain (pair 4 is not correctly matched)",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-019",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nSea - Bordering country\\n1. Adriatic Sea - Albania\\n2. Black Sea - Croatia\\n3. Caspian Sea - Kazakhstan\\n4. Mediterranean Sea - Morocco\\n5. Red Sea - Syria\\nWhich of the pairs given above are correctly matched?",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1, 3 and 4 only",
+      "C": "2 and 5 only",
+      "D": "1, 2, 3, 4 and 5"
+    },
+    "correct_answer": "B",
+    "explanation": "Pair 1 is correctly matched: Adriatic Sea is a water body that acts as a divide between the Italian Peninsula and the Balkan Peninsula. Albania, Croatia, Bosnia and Herzegovina, Italy, Slovenia, and Montenegro share borders with the Adriatic Sea.\\nPair 2 is not correctly matched: Black Sea is located between Europe and Asia. Six countries border the Black Sea, Ukraine to the North, Russia and Georgia to the East, Turkey to the South, and Bulgaria and Romania to the West.\\nPair 3 is correctly matched: Caspian Sea is located between south-eastern Europe and Western Asia. It is the largest inland body of water that can only be accessed through Russia's Volga River and the canals connecting it to the Black Sea, the Baltic Sea, and the Sea of Azov. It is supplied by freshwater sources and has no salt-water connection to the open seas of the world. The bordering states are Azerbaijan, Iran, Kazakhstan, Russia, and Turkmenistan.\\nPair 4 is correctly matched: Mediterranean Sea is an intercontinental sea placed between Western Asia, North Africa, and Europe. 21 countries share the coastline with it. These are- Albania, Algeria, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Greece, Israel, Italy, Lebanon, Libya, Malta, Monaco, Montenegro, Morocco, Slovenia, Spain, Syria, Tunisia, and Turkey.\\nPair 5 is not correctly matched: Red Sea is located between North-east Africa and Western Asia. The six countries bordering it are Saudi Arabia, Yemen, Egypt, Sudan, Eritrea, and Djibouti.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-026",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nRegions sometimes mentioned in news - Country\\n1. Catalonia - Spain\\n2. Crimea - Hungary\\n3. Mindanao - Philippines\\n4. Oromia - Nigeria\\nWhich of the pairs given above are correctly matched?",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "3 and 4 only",
+      "C": "1 and 3 only",
+      "D": "2 and 4 only"
+    },
+    "correct_answer": "C",
+    "explanation": "Pair 1 is correctly matched: Catalonia is an autonomous community in the north-eastern corner of Spain. It is one of Spain's wealthiest regions. It consists of four provinces, such as Barcelona, Girona, Lleida, and Tarragona.\\nPair 2 is not correctly matched: Crimea is a peninsula located on the northern coast of the Black Sea. In 2014, Russia seized Crimea from Ukraine in an illegal move that violated the territorial integrity of the former Soviet republic and sparked a war that has displaced nearly 2 million people and destroyed the country's infrastructure.\\nPair 3 is correctly matched: Mindanao is the second-largest island in the Philippines, after Luzon.\\nPair 4 is not correctly matched: The Oromo people are the native inhabitants of Ethiopia, Eastern Africa. Their population is estimated to be 55 million, which makes it the largest ethnic group in Eastern Africa.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-027",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nTowns sometimes mentioned in news - Country\\n1. Aleppo - Syria\\n2. Kirkuk - Yemen\\n3. Mosul - Palestine\\n4. Mazar-i-sharif - Afghanistan\\nWhich of the pairs given above are correctly matched?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 4 only",
+      "C": "2 and 3 only",
+      "D": "3 and 4 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Pair 1 and pair 4 are correctly matched: Aleppo is in Syria. Mazar-i-sharif is located in Afghanistan.\\nPair 2 and pair 4 are not correctly matched: Kirkuk and Mosul, both are in Iraq. All these places appeared in news in context of war and violence. Terrorism and Ethic conflict are the main reasons of violence. The ethnic dimension to social relations can be distinguished from dimensions based on neighbourliness, national origin, race, and religion etc., but ethnic conflicts are not a special class of conflicts. The significance of a shared ethnic origin varies with the location and scale of social relations.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-015",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "The Mediterranean Sea is a border of which of the following countries?\\n1. Jordan\\n2. Iraq\\n3. Lebanon\\n4. Syria\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "2 and 3 only",
+      "C": "3 and 4 only",
+      "D": "1, 3 and 4 only"
+    },
+    "correct_answer": "C",
+    "explanation": "21 countries share a coastline with the Mediterranean Sea. These are Albania, Algeria, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Greece, Israel, Italy, Lebanon, Libya, Malta, Monaco, Montenegro, Morocco, Slovenia, Spain, Syria, Tunisia, and Turkey. Jordan and Iraq do not share a coastline with the Mediterranean Sea.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-022",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?",
+    "options": {
+      "A": "Syria",
+      "B": "Jordan",
+      "C": "Lebanon",
+      "D": "Israel"
+    },
+    "correct_answer": "B",
+    "explanation": "21 countries share a coastline with the Mediterranean Sea. They are Albania, Algeria, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Greece, Israel, Italy, Lebanon, Libya, Malta, Monaco, Montenegro, Morocco, Slovenia, Spain, Syria, Tunisia, and Turkey. Jordan does not share a border with the Mediterranean Sea.",
+    "subject": "World Geography",
+    "topic": "World Map",
+    "passage": null,
+    "image_url": null
+  }
+]

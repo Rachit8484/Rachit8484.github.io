@@ -1,0 +1,686 @@
+[
+  {
+    "id": "2024-014",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on:",
+    "options": {
+      "A": "Prajnaparamita Sutra",
+      "B": "Visuddhimagga",
+      "C": "Sarvastivada Vinaya Sain",
+      "D": "Lalitavistara"
+    },
+    "correct_answer": "C",
+    "explanation": "The complete Sarvāstivāda Vinaya is extant in the Chinese Buddhist canon. In its early history, the Sarvāstivāda Vinaya was the most common vinaya tradition in China. Sanghabhuti is the author of a commentary on the Sarvastivada Vinaya.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-034",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "With reference to ancient India, Gautama Buddha was generally known by which of the following epithets?\\n1. Nayaputta\\n2. Shakyamuni\\n3. Tathagata\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "None of the above are epithets of Gautama Buddha"
+    },
+    "correct_answer": "B",
+    "explanation": "The ancient texts refer to Mahavira as Nayaputta (son of Nayas). This referred to his clan of origin, which is translated in sanskrit as jnatra. Hence, point 1 is not correct.\\n\\nBuddha is frequently called Shakyamuni, \"the sage of the Shakya clan.\" In Buddhist texts, he is most commonly addressed as Bhagavat (often translated as \"Lord\"), and as the Tathagata, which can mean either \"one who has thus come\" or \"one who has thus gone.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-035",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following information:\\nArchaeological Site State Description\\n1. Chandraketugarh Odisha Trading Port town\\n2. Inamgaon Maharashtra Chalcolithic site\\n3. Mangadu Kerala Megalithic site\\n4. Salihundam Andhra Pradesh Rock-cut shrines\\nIn which of the above rows is the given information correctly matched?",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4"
+    },
+    "correct_answer": "B",
+    "explanation": "Chandraketugarh is in West Bengal, not Odisha. Hence, pair 1 is not correctly matched.\\n\\nInamgaon is a significant Chalcolithic site in Maharashtra. Hence, pair 2 is correctly matched.\\n\\nMangadu in Kerala is a newly discovered prehistoric site with megaliths. Hence, pair 3 is correctly matched.\\n\\nSalihundam in Andhra Pradesh is known for Buddhist stupas and viharas, not rock-cut shrines. Hence, pair 4 is not correctly matched.",
+    "subject": "Ancient India",
+    "topic": "Prehistoric Period and Indus Valley Civilisation",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-038",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. There are no parables in Upanishads.\\n2. Upanishads were composed earlier than the Puranas.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "B",
+    "explanation": "The Parable of the Two Birds finds a mention in the Upanishads. Hence, statement 1 is not correct.\\n\\nThe Upanishads were composed roughly between the 7th and 5th centuries BCE, while the first versions of the Puranas were likely composed between the 3rd and 10th centuries CE. Hence, statement 2 is correct.",
+    "subject": "Ancient India",
+    "topic": "Vedic and Later Vedic Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-001",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+    "options": {
+      "A": "Andhra",
+      "B": "Gandhara",
+      "C": "Kalinga",
+      "D": "Magadha"
+    },
+    "correct_answer": "A",
+    "explanation": "Dhanyakataka, also known as Amaravati, is located in present-day Andhra Pradesh. It was a well-known Buddhist center. Gandhara (modern-day Pakistan/Afghanistan) was another prominent Buddhist site but was famous for its Greco-Buddhist art, not for the Mahasanghikas. Kalinga (modern Odisha) is renowned for the Kalinga War and its role in Ashoka's conversion to Buddhism, while Magadha (modern Bihar) is where Buddhism originated, particularly under rulers like Ashoka. However, these regions did not host Dhanyakataka.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-002",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "With reference to ancient India, how many of the following statements are correct?\\n1. The concept of Stupa is Buddhist in origin.\\n2. Stupa was generally a repository of relics.\\n3. Stupa was a votive and commemorative structure in Buddhist tradition.",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "All three",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "The first two statements are correct: Stupas are indeed of Buddhist origin and serve as repositories of relics. However, not all stupas are commemorative or votive structures. \"Only one\" is incorrect because at least two of the statements are true, and \"All three\" is incorrect because not all stupas serve the commemorative role mentioned.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-003",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+    "options": {
+      "A": "capital cities",
+      "B": "ports",
+      "C": "centres of iron-and-steel making",
+      "D": "shrines of Jain Tirthankaras"
+    },
+    "correct_answer": "B",
+    "explanation": "Korkai, Poompuhar, and Muchiri were crucial port cities in ancient South India, connecting the region to international trade networks. Capital cities like Madurai and Kanchi were inland, centres of iron-and-steel making like the ones in North India (e.g., Taxila) were not prevalent in these regions, and shrines of Jain Tirthankaras were more common in places like Karnataka (Shravanabelagola), not in these port cities.",
+    "subject": "Ancient India",
+    "topic": "Sangam Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-004",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+    "options": {
+      "A": "Kings employing women bodyguards.",
+      "B": "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+      "C": "Young girls keeping watch over agricultural fields and driving away birds and animals",
+      "D": "A king defeated in a battle committing ritual suicide by starving himself to death"
+    },
+    "correct_answer": "D",
+    "explanation": "Vattakirutal' referred to a king’s ritual suicide after defeat, a concept found in Sangam literature. Kings employing women bodyguards or learned persons assembling in royal courts describe other practices not tied to ritual suicide. Young girls keeping watch over agricultural fields refers to a different custom unrelated to the concept of defeat and honor in battle.",
+    "subject": "Ancient India",
+    "topic": "Sangam Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-005",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "How many of the following dynasties established their kingdoms in early eighth century AD?\\n1. Hoysala\\n2. Gahadavala\\n3. Kakatiya\\n4. Yadava",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "Only three",
+      "D": "None"
+    },
+    "correct_answer": "D",
+    "explanation": "None of these dynasties were founded in the early eighth century. The Hoysala and Kakatiya dynasties rose to prominence around the 10th century, while the Yadavas and Gahadavalas became influential later during the 12th century. Only one/two/three options are incorrect as none of these dynasties were founded in the early eighth century.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-007",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.\"\\nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+    "options": {
+      "A": "Buddhism",
+      "B": "Jainism",
+      "C": "Shaivism",
+      "D": "Vaishnavism"
+    },
+    "correct_answer": "B",
+    "explanation": "Jainism holds the belief that souls (jivas) exist in all entities, animate and inanimate. Buddhism, while valuing compassion toward all beings, does not extend this belief to inanimate objects. Shaivism and Vaishnavism are sects of Hinduism that do not share this specific view about souls in non-living things.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-062",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following pairs: \nSite : Well known for\n1. Besnagar : Shaivite cave shrine\n2. Bhaja : Buddhist cave shrine\n3. Sittanawasal : Jain cave shrine\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "All three",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "Besnagar is not known for a Shaivite cave shrine but for the Heliodorus Pillar, related to Vaishnavism. Bhaja is indeed famous for its Buddhist cave shrines. Sittanawasal is renowned for its Jain cave paintings and shrines. Therefore, two of the three pairs are correctly matched.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-008",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?",
+    "options": {
+      "A": "Dholavira",
+      "B": "Kalibangan",
+      "C": "Rakhigarhi",
+      "D": "Ropar"
+    },
+    "correct_answer": "A",
+    "explanation": "The city of Dholavira was an ancient town of the Indus Valley Civilization (IVC). It is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs. Planners in the ancient city of Dholavira had conceptualised an amazing system of drains, dams, and tanks to manage water. To conserve every drop of water, they carefully considered everything.",
+    "subject": "Ancient India",
+    "topic": "Prehistoric Period and Indus Valley Civilisation",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-007",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Which one of the following is not a Harappan site?",
+    "options": {
+      "A": "Chanhudaro",
+      "B": "Kot Diji",
+      "C": "Sohgaura",
+      "D": "Desalpur"
+    },
+    "correct_answer": "C",
+    "explanation": "Sohgaura is not a Harappan Site. It is a village on the banks of the Rapti River, about 20 km south-east of Gorakhpur, in the Gorakhpur District, Uttar Pradesh, India. It is known for Indian copper plate inscriptions written in Prakrit in the Brahmi script.",
+    "subject": "Ancient India",
+    "topic": "Prehistoric Period and Indus Valley Civilisation",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-008",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\\n1. Rigvedic Aryans used the coat of mail and helmet in warfare, whereas the people of the Indus Valley Civilization did not leave any evidence of using them.\\n2. Rigvedic Aryans knew gold, silver, and copper, whereas Indus Valley people knew only copper and iron.\\n3. Rigvedic Aryans had domesticated the horse, whereas there is no evidence of Indus Valley people having been aware of this animal.",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is correct: Rigvedic Aryans used the coat of mail and helmet in warfare, whereas the people of the Indus Valley Civilization did not leave any evidence of using them. Statement 2 is not correct: The metals used by Indo-Aryans in the Rigveda were gold and copper or bronze, later supplemented by silver and iron. Indus Valley people used silver, gold, copper, and bronze, but no evidence of iron. Statement 3 is correct: The Rig Veda mentions horse-drawn chariots, while there's little archaeological evidence of horses during the Harappan era.",
+    "subject": "Ancient India",
+    "topic": "Vedic and Later Vedic Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-007",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "With reference to the cultural history of India, the memorising of chronicles, dynasty histories, and epic tales was the profession of who of the following?",
+    "options": {
+      "A": "Shramana",
+      "B": "Parivraajaka",
+      "C": "Agrahaarika",
+      "D": "Magadha"
+    },
+    "correct_answer": "D",
+    "explanation": "The memorising of chronicles, dynastic histories, or epic tales was the work of a group of people, the Sutas and Magadhas. During the first stage (from the 4th century BC to the 4th century AD), the task of collecting information and presenting it in literary form was the special task assigned to the Sutas and Magadhas (bards and chroniders), who were the descendants of priestly families of the Vedic period.",
+    "subject": "Ancient India",
+    "topic": "Vedic and Later Vedic Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-005",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "According to Kautilya's Arthashastra, which of the following are correct?\\n1. A person could be a slave as a result of a judicial punishment.\\n2. If a female slave bore her master a son, she was legally free.\\n3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son.\\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: According to the Kautilya's Arthashastra, a person can primarily be enslaved by selling himself or being captured in the war.\\nStatement 2 is correct: According to the Kautilya's Arthashastra, children born to slave and master when a slave gives birth to a child, both the mother and child shall be recognised as free and were no longer considered to be slaves.\\nStatement 3 is correct: If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-006",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nSite of Ashoka's major rock edicts : Location in the State of\\n1. Dhauli : Odisha\\n2. Erragudi : Andhra Pradesh\\n3. Jaugada : Madhya Pradesh\\n4. Kalsi : Karnataka\\nHow many pairs given above are correctly matched?",
+    "options": {
+      "A": "Only one pair",
+      "B": "Only two pairs",
+      "C": "Only three pairs",
+      "D": "All four pairs"
+    },
+    "correct_answer": "B",
+    "explanation": "Pair 1 is correctly matched: Dhauli is located in Odisha.\\nPair 2 is correctly matched: Erragudi or Yerragudi is located in Andhra Pradesh.\\nPair 3 is incorrectly matched: Jaugada is located in Odisha.\\nPair 4 is incorrectly matched: Kalsi is located in Uttarakhand.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-010",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "Who among the following rulers advised his subjects through this inscription?\\n\"Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.\"",
+    "options": {
+      "A": "Ashoka",
+      "B": "Samudragupta",
+      "C": "Harshavardhana",
+      "D": "Krishanadeva Raya"
+    },
+    "correct_answer": "A",
+    "explanation": "Major Rock Edict XII of Ashoka reads, \"Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.\"",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-011",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to the religious history of India, consider the following statements:\\n1. Sthaviravadins belong to Mahayana Buddhism.\\n2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.\\n3. The deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: The first division in the Buddhist community occurred in 383 B.C. The order broke into Sthaviravada (in Pali Theravada) and the Mahasanghikas. While the Sthaviravadins were believers in the teaching of elders, and orthodox school. They did not belong to the Mahayana Buddhism.\\nStatement 2 is correct: Subdivisions of the Mahasanghikas included aspects of Lokottarvadin whose philosophy was based on the concept of Lokottara Buddha or Supernatural Buddha. Hence, Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.\\nStatement 3 is correct: Mahasanghika Paved the way for the emergence of the Mahayana sect of Buddhism during the 4th Buddhist Council. Mahayanist gave prominence to the Bodhisattva ideal. Thus, the deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-012",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to the cultural history of India, which one of the following is the correct description of the term 'paramitas'?",
+    "options": {
+      "A": "The earliest Dharmashastra texts written in aphoristic (sutra) style",
+      "B": "Philosophical schools that did not accept the authority of Vedas",
+      "C": "Perfections whose attainment led to the Bodhisattva path",
+      "D": "Powerful merchant guilds of early medieval South India"
+    },
+    "correct_answer": "C",
+    "explanation": "To achieve enlightenment and realise Nibbana, the Fourth Noble Truth, the Noble Eightfold Path, gives a Buddhist practitioner, ways to practice, and the path to follow. There also exists a parallel path that consists of perfecting certain qualities, in order for a pilgrim to become a self-Enlightened Universal Buddha. These qualities are termed as the Paramis (perfections) in the Southern traditions and the Paramitas in the Eastern and Northern traditions in the context of the Bodhisattva path.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-008",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Consider the following:\\n1. Deification of the Buddha.\\n2. Treading the path of Bodhisattvas.\\n3. Image worship and rituals.\\nWhich of the above is/are the feature/features of Mahayana Buddhism?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "Mahayana is one of the two main schools of Buddhism. The term Mahayana is a Sanskrit word which literally means \"Great Vehicle\". This school of Buddhism believes in the heavenliness of Buddha and Idol worship of Buddha and Bodhisattvas embodying Buddha Nature. It originated in northern India and Kashmir and then spread east into Central Asia, East Asia and some areas of Southeast Asia.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-009",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?",
+    "options": {
+      "A": "Kanganahalli",
+      "B": "Sanchi",
+      "C": "Shahbazgarhi",
+      "D": "Sohgaura"
+    },
+    "correct_answer": "A",
+    "explanation": "Kanaganahalli, an important Buddhist site, dates from the 1st century BC to the 3rd century AD. It is the place where an ancient Buddhist Mahastupa site was found. It is a site in Karnataka with an inscription in Brahmi script reading \"Ranyo Ashoka\" (King Ashoka) and a sculpture of King Ashoka. The uniqueness of the Kanaganahalli image is that it is the only inscribed portrait of the Emperor encountered so far.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-015",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "With reference to the religious practices in India, the \"Sthanakvasi\" sect belongs to",
+    "options": {
+      "A": "Buddhism",
+      "B": "Jainism",
+      "C": "Vaishnavism",
+      "D": "Shaivism"
+    },
+    "correct_answer": "B",
+    "explanation": "Sthanakvasi is a sect of Svetambara Jainism founded by a merchant named Lavaji in 1653 AD. It believes that idol worship is not essential in the path of soul purification and attainment of Nirvana or Moksha. The sect is essentially a reformation of the one founded on teachings of Lonka, a fifteenth-century Jain reformer.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-016",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "With reference to India history, who among the following is a future Buddha, yet to come to save the world?",
+    "options": {
+      "A": "Avalokiteshvara",
+      "B": "Lokesvara",
+      "C": "Maitreya",
+      "D": "Padmapani"
+    },
+    "correct_answer": "C",
+    "explanation": "In Buddhist culture, Maitreya is a bodhisattva who will arrive on Earth in the future, and save the world, in order to attain complete awareness and educate about the pure dharma. According to the inscriptions, Maitreya will be an heir to the existing Buddha, Gautama Buddha. The prediction of the appearance of Maitreya relates to a time in the future when the dharma will have been neglected by most in the physical world.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-009",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "With reference to the religious history of India, consider the following statements:\\n1. Sautrantika and Sammitiya were the sects of Jainism.\\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary but existed forever in a latent form.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: Sautrantika and Sammitiya are sects of Buddhism. Sautrantika school belongs to Hinayana Buddhism, which is one of the two schools of Buddhism, the other one being Mahayana.\\nStatement 2 is correct: This sect of Buddhism believes that all things exist, and exist continuously, in the past and the future as well as in the present. Sarvastivada, also called Vaibhashika, a school of early Buddhism. A fundamental concept in Buddhist metaphysics is the assumption of the existence of dharmas, cosmic factors and events that combine momentarily under the influence of a person's past deeds to form a person's life flux, which he considers his personality and career.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-008",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "Who of the following had first deciphered the edicts of Emperor Ashoka?",
+    "options": {
+      "A": "Georg Buhler",
+      "B": "James Prinsep",
+      "C": "Max Muller",
+      "D": "William Jones"
+    },
+    "correct_answer": "B",
+    "explanation": "In 1837, James Prinsep deciphered the edicts of Ashoka.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-009",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "With the reference to the religious history of India, consider the following statement:\\n1. The concept of Bodhisattva is central to the Hinayana sect of Buddhism.\\n2. Bodhisattva is the compassionate one on his way to enlightenment.\\n3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "2 only",
+      "D": "1, 2, and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: Bodhisattva is an ideal in Mahayana Buddhism, Bodhisattva is the individual who seeks enlightenment both for him or herself and for others.\\nStatement 2 is correct: A Bodhisattva is literally a living being (Sattva) who aspires to be enlightened (Bodhi) and carries out altruistic practices. Compassion, an empathetic sharing of the sufferings of others, is Bodhisattva's greatest characteristic.\\nStatement 3 is correct: Bodhisattva is an aspirant of Buddhahood (buddhatva) who works for the enlightenment of all sentient beings in contrast to that of one's own emancipation of the Arhat (an ideal in non- Mahayana traditions).",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-009",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Which of the following kingdoms were associated with the life of Buddha?\\n1. Avanti\\n2. Gandhara\\n3. Kosala\\n4. Magadha\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "2 and 3 only",
+      "C": "1, 3 and 4 only",
+      "D": "3 and 4 only"
+    },
+    "correct_answer": "D",
+    "explanation": "Magadha, Kosala, Vaishali, Vajji, were the kingdoms and regions that were associated with the life of Buddha. Avanti was not directly related to the life of Buddha. Pasenadi (Prasenajit), King of Kosala, was the Buddha's contemporary and is frequently mentioned in Pali texts. Kosala and Magadha were linked through matrimonial ties. Buddha wandered through the towns and villages in the kingdoms of Kosala and Magadha teaching his philosophy. Gandhara is not directly associated with the life of Buddha. It was through the expansion of the Mauryan empire that Gandhara received much Buddhist influence, notably during the reign of Asoka.",
+    "subject": "Ancient India",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-009",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "With reference to the history of ancient India, which of the following statements is/are correct?\\n1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.\\n2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.\\n3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 only",
+      "C": "1 and 3",
+      "D": "3 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is incorrect as Mitakshara and Dayabhaga are not based on caste divisions. Statement 2 is correct regarding the difference in property rights between the two systems. Statement 3 is incorrect as both systems deal with property held by male and female members, though Dayabhaga gives more rights to women.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-010",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\\n1. The Guptas of Magadha\\n2. The Paramaras of Malwa\\n3. The Pushyabhutis of Thanesar\\n4. The Maukharis of Kanauj\\n5. The Yadavas of Devagiri\\n6. The Maitrakas of Valabhi",
+    "options": {
+      "A": "1, 2 and 5",
+      "B": "1, 3, 4 and 6",
+      "C": "2, 3 and 4",
+      "D": "5 and 6"
+    },
+    "correct_answer": "B",
+    "explanation": "The Later Guptas of Magadha, the Pushyabhutis of Thanesar, the Maukharis of Kanauj, and the Maitrakas of Valabhi were holding power in Northern India during the mentioned period. The Paramaras and Yadavas belonged to later periods.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-013",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "Which of the following phrases defines the nature of the 'Hundi' generally referred to in the sources of the post-Harsha period?",
+    "options": {
+      "A": "An advisory issued by the king to his subordinates",
+      "B": "A diary to be maintained for daily accounts",
+      "C": "A bill of exchange",
+      "D": "An order from the feudal lord to his subordinates"
+    },
+    "correct_answer": "C",
+    "explanation": "Hundi was an instrument of credit or a bill of exchange used during the Medieval period to facilitate the transfer of money from one part of the country to another. It was a letter of credit payable after a period at a discount.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-014",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to the period of the Gupta dynasty in ancient India, the towns Ghantasala, Kadura, and Chaul were known as",
+    "options": {
+      "A": "ports handling foreign trade",
+      "B": "capitals of powerful kingdoms",
+      "C": "places of exquisite stone art and architecture",
+      "D": "important Buddhist pilgrimage centres"
+    },
+    "correct_answer": "A",
+    "explanation": "During the Gupta period, Ghantasala, Kadura, and Chaul were known as ports handling foreign trade. These ports were part of the extensive maritime trade network between India, Southeast Asia, and China.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-015",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to the history of India, the terms 'kulyavapa' and 'dronavapa' denote",
+    "options": {
+      "A": "measurement of land",
+      "B": "coins of different monetary value",
+      "C": "classification of urban land",
+      "D": "religious rituals"
+    },
+    "correct_answer": "A",
+    "explanation": "In the Gupta period, 'kulyavapa' and 'dronavapa' were terms used for the measurement of land. These were different land measures known in different regions, along with other terms like Nivartana.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-016",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "With reference to the scholars/litterateurs of ancient India, consider the following statements:\\n1. Panini is associated with Pushyamitra Shunga\\n2. Amarasimha is associated with Harshavardhana\\n3. Kalidasa is associated with Chandra Gupta-II",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "explanation": "Panini lived during the Mahajanapada era, not during Pushyamitra Shunga's time. Amarasimha was associated with the Gupta dynasty, not Harshavardhana. Kalidasa was indeed associated with Chandra Gupta-II (also known as Vikramaditya).",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-010",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?",
+    "options": {
+      "A": "It was considered a source of income for the State, a sort of tax paid by the people.",
+      "B": "It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire.",
+      "C": "The forced labourer was entitled to weekly wages.",
+      "D": "The eldest son of the labourer was sent as the forced labourer."
+    },
+    "correct_answer": "A",
+    "explanation": "During the Gupta period, Vishti (forced labour) was considered a source of income for the State, a sort of tax paid by the people. It is mentioned in Gupta era copper inscriptions as one form of tax, suggesting it was extracted from regions like Gujarat and Malwa.",
+    "subject": "Ancient India",
+    "topic": "Gupta and Post-Gupta Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-007",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+    "options": {
+      "A": "Sangam poems are devoid of any reference to material culture.",
+      "B": "The social classification of Varna was known to Sangam poets.",
+      "C": "Sangam poems have no reference to warrior ethics.",
+      "D": "Sangam literature refers to magical forces as irrational."
+    },
+    "correct_answer": "B",
+    "explanation": "Sangam Literature has references to material culture and war tactics and ethics. Hence statements a and c are incorrect. Statement d is incorrect because Sangam literature doesn't refer to magical forces as irrational. Aṇaṅku is a phenomenon of sacred power described in ancient Tamil literature such as the sangam literature. This sacred magical forces were supposed to inhabit various objects, which eventually determined their association with the society. Statement b is correct because, The varna system was not practiced but it was known. (Tolkappiyam refers to 4 castes)",
+    "subject": "Ancient India",
+    "topic": "Sangam Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-017",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "Consider the following events in the history of India:\\n1. Rise of Pratiharas under King Bhoja\\n2. Establishment of Pallava power under Mahendravarman-I\\n3. Establishment of Chola power by Parantaka-I\\n4. Pala dynasty founded by Gopala\\nWhat is the correct chronological order of the above events, starting from the earliest time?",
+    "options": {
+      "A": "2 – 1 – 4 – 3",
+      "B": "3 – 1 – 4 – 2",
+      "C": "2 – 4 – 1 – 3",
+      "D": "3 – 4 – 1 – 2"
+    },
+    "correct_answer": "C",
+    "explanation": "The Pallavas reached their zenith during the reign of Mahendravarman I (600–630 AD). The Pala Empire was founded with the election of Gopala as the emperor of Gauda in 750 CE. The greatest ruler of the Pratihara dynasty was Mihira Bhoja (836–885 CE). The Chola ruler Parantaka succeeded his father Aditya I on the throne in 907 AD.",
+    "subject": "Ancient India",
+    "topic": "Sangam Age",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-010",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "In the context of the history of India, consider the following pairs:\\n1. Eripatti: Land, revenue from which was set apart for the maintenance of the village tank\\n2. Taniyurs: Villages donated to a single Brahmin or a group of Brahmins\\n3. Ghatikas: Colleges generally attached to the temples\\nWhich of the pairs given above is/are correctly matched?",
+    "options": {
+      "A": "1 and 2",
+      "B": "3 only",
+      "C": "2 and 3",
+      "D": "1 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "Pair 1 is correctly matched: Eripatti or tank land was the land donated by individuals, the revenue from which was set apart for the maintenance of the village tank. Pair 2 is not correctly matched: Taniyur are the large villages under Chola administrative division. These were distinct revenue units. Pair 3 is correctly matched: In South India centers of higher learning were known as Ghatikas. Ghatikas and Mathas were attached to temples.",
+    "subject": "Ancient India",
+    "topic": "Sangam Age",
+    "passage": null,
+    "image_url": null
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "2024-022",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Which of the following statements about 'Exercise Mitra Shakti-2023' are correct?\\n1. This was a joint military exercise between India and Bangladesh\\n2. It commenced in Aundh (Pune).\\n3. Joint response during counter-terrorism operations was a goal of this operation.\\n4. Indian Air Force was a part of this exercise.\\nSelect the answer using the code given below:",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "1, 2 and 4",
+      "C": "1, 3 and 4",
+      "D": "2, 3 and 4"
+    },
+    "correct_answer": "D",
+    "explanation": "Exercise MITRA SHAKTI-2023:\\n- The ninth edition of the Joint Military exercise was conducted between India and Sri Lanka. Hence, statement 1 is NOT correct.\\n- It commenced in Aundh (Pune). Hence, statement 2 is correct.\\n- The Scope of the exercise includes synergising joint responses during counter-terrorist operations. Hence, statement 3 is correct.\\n- 15 personnel from the Indian Air Force and five personnel from Sri Lanka Air Force participated in the exercise. Hence, statement 4 is correct.",
+    "subject": "International Relations",
+    "topic": "India & Its Neighbors",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-027",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nCountry - Reason for being in the news\\n1. Argentina - Worst economic crisis\\n2. Sudan - War between the country's regular army and paramilitary forces\\n3. Turkey - Rescinded its membership of NATO\\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "A": "Only one pair",
+      "B": "Only two pair",
+      "C": "All three pairs",
+      "D": "None of the pairs"
+    },
+    "correct_answer": "B",
+    "explanation": "Argentina: With one of the world's highest inflation rates and after more than a decade of economic stagnation and rising poverty, Argentina once again finds itself teetering on the brink of economic collapse. Hence, pair 1 is correctly matched.\\n\\nSudan: At least 185 people killed and 1,800 wounded in Khartoum since fighting began between the Sudanese army and paramilitary forces. The conflict traces back to April 2019, when Sudan's long-serving President Omar al-Bashir was overthrown by military generals following a nationwide uprising. Hence, pair 2 is correctly matched.\\n\\nTurkey: Turkey has been a member of NATO since 1952 and plays a significant role within the alliance due to its strategic location and military capabilities. There have been tensions and disagreements between Turkey and other NATO members on various issues, but Turkey has not withdrawn from the alliance. Hence, pair 3 is not correctly matched.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-039",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. India is a member of the International Grains Council.\\n2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "A",
+    "explanation": "India is a member of the International Grain Council. Hence, statement 1 is correct.\\n\\nA country need not be a member of the International Grains Council for exporting or importing rice and wheat. Hence, statement 2 is not correct.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2024-064",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Consider the following statements regarding World Toilet Organization:\\n1. It is one of the agencies of the United Nations.\\n2. World Toilet Summit, World Toilet Day and World Toilet College are the initiatives of this organization, to inspire action to tackle the global sanitation crisis.\\n3. The main focus of its function is to grant funds to the least developed countries and developing countries to achieve the end of open defecation.\\nWhich of the statements given above is/are correct?\\n(a) 2 only\\n(b) 3 only\\n(c) 1 and 2\\n(d) 2 and 3",
+    "options": {
+      "A": "2 only",
+      "B": "3 only",
+      "C": "1 and 2",
+      "D": "2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "World Toilet Organization (WTO) is a global non-profit organization committed to improving toilet and sanitation conditions worldwide. It was granted consultative status with the United Nations Economic and Social Council in 2013.\\n\\nWorld Toilet Organization established World Toilet Day and the World Toilet Summit in 2001. This was followed by the World Toilet College in 2005.\\n\\nWorld Toilet Organization provides an international platform for toilet associations, governments, academic institutions, foundations, UN agencies and corporate stakeholders to exchange knowledge and leverage media and corporate support in an effort to promote clean sanitation and public health policies.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-053",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following pairs: \nRegion often mentioned in news : Reason for being in news\n1. North Kivu and Ituri : War between Armenia and Azerbaijan\n2. Nagorno-Karabakh : Insurgency in Mozambique\n3. Kherson and Zaporizhzhia : Dispute between Israel and Lebanon\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "All three",
+      "D": "None"
+    },
+    "correct_answer": "D",
+    "explanation": "North Kivu and Ituri are regions in the Democratic Republic of the Congo, involved in local conflicts and not the Armenia-Azerbaijan war. Nagorno-Karabakh is a disputed region between Armenia and Azerbaijan, not related to Mozambique. Kherson and Zaporizhzhia are areas involved in the Ukraine-Russia conflict, not related to disputes between Israel and Lebanon. Thus, none of the pairs are correctly matched.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-057",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\nArea of conflict : Country where it is mentioned in news located\n1. Donbas : Syria\n2. Kachin : Ethiopia\n3. Tigray : North Yemen\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "A": "Only one",
+      "B": "Only two",
+      "C": "All three",
+      "D": "None"
+    },
+    "correct_answer": "D",
+    "explanation": "Donbas is a region in Ukraine, Kachin is in Myanmar, and Tigray is in Ethiopia. Therefore, none of the pairs provided in the question are correctly matched.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-058",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "In recent years Chad, Guinea, Mali, and Sudan caught the international attention for which one of the following reasons common to all of them?",
+    "options": {
+      "A": "Discovery of rich deposits of rare earth elements",
+      "B": "Establishment of Chinese military bases",
+      "C": "Southward expansion of the Sahara Desert",
+      "D": "Successful coups"
+    },
+    "correct_answer": "D",
+    "explanation": "In recent years, Chad, Guinea, Mali, and Sudan have all experienced successful coups, which have drawn significant international attention, marking political instability in these countries. Thus, the common reason for attention is successful coups.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-060",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Consider the following statements about G-20:\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "The G-20 was originally established as a platform for Finance Ministers and Central Bank Governors to address global economic and financial issues. Digital public infrastructure has been a priority for India during its G-20 presidency, particularly focusing on advancing technological frameworks. Thus, both statements are correct.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-055",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Consider the following countries:\\n1. China\\n2. France\\n3. India\\n4. Israel\\n5. Pakistan\\nWhich among the above are Nuclear Weapons States as recognized by the Treaty on the Nonproliferation of Nuclear Weapons, commonly known as Nuclear Non-Proliferation Treaty (NPT)?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1, 3, 4 and 5 only",
+      "C": "2, 4 and 5 only",
+      "D": "1, 2, 3, 4 and 5"
+    },
+    "correct_answer": "A",
+    "explanation": "The Treaty on the Non-Proliferation of Nuclear Weapons (NPT), which entered into force in March 1970, seeks to inhibit the spread of nuclear weapons. Its 190 (191 with North Korea*) states-parties are classified in two categories: nuclear-weapon states (NWS)- consisting of the United States, Russia, China, France, and the United Kingdom and non-nuclear-weapon states (NNWS)- remaining all other states. Under the treaty, the five NWS commit to pursuing general and complete disarmament, while the NNWS agree to forgo developing or acquiring nuclear weapons. India did not join or sign the Nuclear Non-Proliferation Treaty (NPT). So, options (b), (c), and (d) can be easily eliminated. Therefore, we can mark option (a) as the correct answer.",
+    "subject": "International Relations",
+    "topic": "India's Foreign Policy",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-056",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Recently, India signed a deal known as 'Action Plan for Prioritisation and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries?",
+    "options": {
+      "A": "Japan",
+      "B": "Russia",
+      "C": "The United Kingdom",
+      "D": "The United States of America"
+    },
+    "correct_answer": "B",
+    "explanation": "An 'Action Plan for Prioritization and Implementation of Co-operation Areas in the Nuclear Field' was jointly signed by India and Russia in October 2018 in New Delhi. The document was signed by the Director General of Rosatom State Atomic Energy Corporation and Secretary of the Department of Atomic Energy and the Chairman of the Atomic Energy Commission of India. With the signing of the document, the two countries plan to implement the project of six nuclear power units of Russian design at a new site in India, as well as further cooperation in third countries in new promising areas of nuclear technology, apart from the construction of nuclear power plants. At present India and Russia are jointly involved in the Rooppur Nuclear Power Plant project in Bangladesh.",
+    "subject": "International Relations",
+    "topic": "India & Its Neighbors",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-057",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "What is the importance of developing Chabahar Port by India?",
+    "options": {
+      "A": "India's trade with African countries will enormously increase.",
+      "B": "India's relations with oil-producing Arab countries will be strengthened.",
+      "C": "India will not depend on Pakistan for access to Afghanistan and Central Asia.",
+      "D": "Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and India."
+    },
+    "correct_answer": "C",
+    "explanation": "The first and foremost significance of the Chabahar port is the fact that India can bypass Pakistan in transporting goods to Afghanistan and Central Asia. Chabahar port will boost India's access to Iran, the key gateway to the International North-South Transport Corridor that has sea, rail and road routes between India, Russia, Iran, Europe, and Central Asia. Chabahar port will be beneficial to India in countering Chinese presence in the Arabian Sea, which China is trying to ensure by helping Pakistan develop the Gwadar port. Gwadar port is less than 400 km from Chabahar by road and 100 km by sea.",
+    "subject": "International Relations",
+    "topic": "India & Its Neighbors",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-041",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "'Belt and Road Initiative' is sometimes mentioned in the news in the context of the affairs of:",
+    "options": {
+      "A": "African Union",
+      "B": "Brazil",
+      "C": "European Union",
+      "D": "China"
+    },
+    "correct_answer": "D",
+    "explanation": "The Belt and Road Initiative (BRI) is a transcontinental long-term policy and investment program which aims at infrastructure development and acceleration of the economic integration of countries along the route of the historic Silk Road. The Initiative was unveiled by China in 2013. BRI aims to promote the connectivity of Asian, European, and African continents and their adjacent seas, establish and strengthen partnerships among the countries along the Belt and Road, set up all-dimensional, multi-tiered and composite connectivity networks, and realise diversified, independent, balanced and sustainable development in these countries.",
+    "subject": "International Relations",
+    "topic": "India & Its Neighbors",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-060",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\\n1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.\\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.\\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "Statement 1 is correct: The coastal States exercise sovereignty over their territorial sea which they have the right to establish its breadth up to a limit not to exceed 12 nautical miles; foreign vessels are allowed \"innocent passage\" through those waters.\\n\\nStatement 2 is correct: Under Article 17 of the UNCLOS III Right of Innocent Passage is defined as \"Subject to this Convention, ships of all States, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea\", and the Passage is defined under Article 18.\\n\\nStatement 3 is correct: The coastal State shall delineate the outer limits of its continental shelf, where that shelf extends beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured, by straight lines not exceeding 60 nautical miles in length, connecting fixed points, defined by the coordinates of latitude and longitude.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-061",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "With reference to the \"United Nations Credentials Committee\", consider the following statements:\\n1. It is a committee set up by the UN Security Council and works under its supervision.\\n2. It traditionally meets in March, June and September every year.\\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "3 only",
+      "B": "1 and 3",
+      "C": "2 and 3",
+      "D": "1 and 2"
+    },
+    "correct_answer": "A",
+    "explanation": "Option (a) is correct: In most cases, accreditation at the UN is a formality whereby the General Assembly approves specific individuals to represent a Member State. According to this procedure, the Head of State or Government or Minister for Foreign Affairs of a Member State submits documentation to the UN Secretary-General stating that the named individuals are entitled to represent that Member State. The documentation is referred to a Credentials Committee appointed by the General Assembly at the beginning of each regular session (month of September).\\n\\nThus, the review of the credentials of UN Member States is an annual process. The Credentials Committee examines the credentials and determines whether they are complete and have been issued by the proper authority, but it does not generally inquire into the legitimacy of the issuing authority. The Committee then submits a report to the General Assembly recommending either rejection or approval of the credentials of the representatives of all Member States. Typically, the General Assembly adopts the Committee's recommendations without discussion.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-062",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "With reference to the United Nations General Assembly, consider the following statements:\\n1. The UN General Assembly can grant observer status to the non-member States.\\n2. Inter-governmental organisations can seek observer status in the UN General Assembly.\\n3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.\\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "According to the Charter of the United Nations, the General Assembly may:\\nElect the non-permanent members of the Security Council and the members of other United Nations councils and organs and, on the recommendation of the Security Council, appoint the Secretary-General.\\nMake recommendations on maintaining international peace and security, including disarmament.\\nDiscuss any question relating to international peace and security (except where a dispute or situation is currently being discussed by the Security Council)\\nMake recommendations to promote international political cooperation, the development and codification of international law, the realization of human rights and fundamental freedoms, and international collaboration in the economic, social, humanitarian, cultural, educational and health fields.\\nMake recommendations for the peaceful settlement of any situation that might impair friendly relations among countries\\nThe Assembly may also take action in cases of a threat to the peace, breach of peace or act of aggression, when the Security Council has failed to act owing to the negative vote of a permanent member.\\n\\nStatement 1 is correct: The UN General Assembly can grant observer status to the non-member States.\\nStatement 2 is correct: Inter-governmental organisations can seek observer status in the UN General Assembly.\\nStatement 3 is correct: Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-063",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following:\\n1. Asian Infrastructure Investment Bank\\n2. Missile Technology Control Regime\\n3. Shanghai Cooperation Organisation\\nIndia is a member of which of the above?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "D",
+    "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank that aims to improve economic and social outcomes in Asia. India became a member in 2016.\\n\\nThe Missile Technology Control Regime (MTCR) is a multilateral export control regime whose members have an informal political understanding to limit the proliferation of missiles and missile technology. India became a member of the MTCR in 2016.\\n\\nThe Shanghai Cooperation Organisation (SCO) is a permanent intergovernmental international organization, created on 15 June 2001 in Shanghai (China). India became a member in 2017.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-064",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "With reference to the \"G20 Common Framework\", consider the following statements:\\n1. It is an initiative endorsed by the G20 together with the Paris Club.\\n2. It is an initiative to support Low Income Countries with unsustainable debt.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 and Statement 2 are correct\\nThe Common Framework for Debt Treatments beyond the DSSI is an agreement of the G20 and Paris Club countries to coordinate and cooperate on debt treatments for up to 73 low-income countries that are eligible for the Debt Service Suspension Initiative (DSSI).\\n\\nFor countries with sustainable debt but liquidity issues, it can provide a deferral of a portion of debt service payments for a number of years that can ease financing pressures. This type of treatment is often referred to as rescheduling or reprofiling. Such a debt treatment can also benefit countries where high debt service payments are a source of debt vulnerability.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2020-064",
+    "year": 2020,
+    "paper": "GS1",
+    "question": "In which one of the following groups are all the four countries members of G20?",
+    "options": {
+      "A": "Argentina, Mexico, South Africa, and Turkey",
+      "B": "Australia, Canada, Malaysia, and New Zealand",
+      "C": "Brazil, Saudi Arabia, and Vietnam",
+      "D": "Indonesia, Japan, Singapore, and South Korea"
+    },
+    "correct_answer": "A",
+    "explanation": "The G20 is an informal group of 19 countries and the European Union, with representatives of the International Monetary Fund and the World Bank. The G20 membership comprises a mix of the world's largest advanced and emerging economies, representing about two-thirds of the world's population, 85% of global gross domestic product, 80% of global investment and over 75% of global trade. The G20 Presidency rotates annually according to a system that ensures a regional balance over time.\\n\\nOption (a) is correct: The members of the G20 include Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Republic of Korea, Mexico, Russia, Saudi Arabia, South Africa, Turkey, the United Kingdom, the United States, and the European Union.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-057",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air'.\\n2. The UNCAC is the ever-first legally binding global anti-corruption instrument.\\n3. A highlight of the United Nations Convention against Transnational Organised Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.\\n4. The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.\\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "2, 3 and 4 only",
+      "C": "2 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is not correct: The United Nations Convention against Corruption (UNCAC) only covers five main areas: preventive measures, criminalization and law enforcement, international cooperation, asset recovery, and technical assistance and information exchange. This convention does not cover the aspect of Smuggling of Migrants by Land, Sea and Air'.\\n\\nStatement 2 is correct: The United Nations Convention against Corruption is the only legally binding universal anti-corruption instrument. The Convention's far-reaching approach and the mandatory character of many of its provisions make it a unique tool for developing a comprehensive response to a global problem.\\n\\nStatement 3 is not correct: The General Assembly adopted the United Nations Convention against Transnational Organised Crime and two of its supplementary Protocols namely: The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children and the Protocol against the Smuggling of Migrants by Land, Air and Sea. This convention does not cover the aspect of asset return to rightful owners.\\n\\nStatement 4 is correct: United Nations Office on Drugs and Crime (UNODC) is a global leader in the fight against illicit drugs and international crime. Established in 1997 through a merger between the United Nations Drug Control Programme and the Centre for International Crime Prevention, UNODC operates in all regions of the world through an extensive network of field offices.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-058",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements:\\n1. AIIB has more than 80 member nations.\\n2. India is the largest shareholder in AIIB.\\n3. AIIB does not have any members from outside Asia.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank that aims to support the building of infrastructure in the Asia-Pacific region. It is headquartered in Beijing, China. It offers sovereign and non-sovereign financing for sound and sustainable projects in energy and power, transportation and telecommunications, rural infrastructure and agricultural development, water supply and sanitation, environmental protection, and urban development and logistics.\\n\\nStatement 1 is correct: The bank currently has 103 member nations.\\n\\nStatement 2 is not correct: China is the largest shareholder (shareholding 30.77%) in AIIB followed by India (shareholding 8.64%), Russia (6.75%) and Germany (4.63%).\\n\\nStatement 3 is not correct: AIIB has 39 non-regional members (members from outside Asia) as well. Some of them are Austria, Canada, Finland, etc.\\n\\nElimination Technique: AIIB does not have any members from outside Asia. Statement 3 is not correct. Thus, Option (a) is correct.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-057",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Which is /are the consequence/consequences of becoming a member of the 'Nuclear Supplier Group'?\\n1. It will have access to the latest and most effective nuclear technologies.\\n2. It automatically becomes a member of \"The Treaty of non-proliferation of Nuclear weapons (NPT)\".",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "A",
+    "explanation": "By becoming a member of the Nuclear Supplier Group (NSG), India will have access to the latest and most effective nuclear technologies. However, joining the NSG will not automatically lead to becoming a member of \"The Treaty of non-proliferation of Nuclear weapons (NPT)\". In 2008, India got a 'clean waiver' from NSG to do nuclear trade with member countries, even though it had not signed the NPT.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-058",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "International Labour Organization's Conventions 138 and 182 are related to:",
+    "options": {
+      "A": "Child Labour",
+      "B": "Adaptation of agricultural practices to global climate change",
+      "C": "Regulation of food prices and food security",
+      "D": "Gender parity at the workplace"
+    },
+    "correct_answer": "A",
+    "explanation": "The two International Labour Organization's (ILO) Conventions on child labour are Convention No. 138 on Minimum Age and Convention No. 182 on the Worst Forms of Child Labour. These Conventions are \"fundamental\" Conventions, meaning all ILO member States have an obligation to respect, promote and realize the abolition of child labour, even if they have not ratified the Conventions.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-059",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the 'International Atomic Energy Agency (IAEA)'?",
+    "options": {
+      "A": "The civilian nuclear reactors come under IAEA safeguards.",
+      "B": "The military nuclear installations come under the inspection of IAEA.",
+      "C": "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+      "D": "The country automatically becomes a member of the NSG."
+    },
+    "correct_answer": "A",
+    "explanation": "The Additional Protocol is not a stand-alone agreement, but rather a protocol to a safeguards agreement that provides additional tools for verification. It significantly increases the IAEA's ability to verify the peaceful use of all nuclear material in States with comprehensive safeguards agreements. Hence, civilian nuclear reactors come under IAEA safeguards.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-060",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Consider the following countries:\\n1. Australia\\n2. Canada\\n3. China\\n4. India\\n5. Japan\\n6. USA\\nWhich of the above are among the 'free-trade partners' of ASEAN?",
+    "options": {
+      "A": "1, 2, 4 and 5 only",
+      "B": "3, 4, 5 and 6 only",
+      "C": "1, 3, 4 and 5 only",
+      "D": "2, 3, 4 and 6 only"
+    },
+    "correct_answer": "C",
+    "explanation": "ASEAN has a total of 6 free trade partners namely: Australia, New Zealand, South Korea, Japan, India, and China. ASEAN and its 5 free trade partners (excluding India) have entered into a regional trading agreement called the Regional Comprehensive Economic Partnership (RCEP). India has chosen to stay out of RCEP.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-058",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "With reference to 'Asia Pacific Ministerial Conference on Housing and Urban Development (APMCHUD)', consider the following statements:\\n1. The first APMCHUD was held in India in 2006 on the theme 'Emerging Urban Forms — Policy Responses and Governance Structure'.\\n2. India hosts all the Annual Ministerial Conferences in partnership with ADB, APEC and ASEAN.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "explanation": "The first APMCHUD was held in India in 2006 on the theme, \"A vision for sustainable urbanisation in the Asia-Pacific by 2020\", not 'Emerging Urban Forms — Policy Responses and Governance Structure'. Subsequent conferences were held in different countries, not all hosted by India. The conferences are not held annually and are not in partnership with ADB, APEC and ASEAN.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-059",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.\\n2. TFA is a part of WTO's Bali Ministerial Package of 2013.\\n3. TFA came into force in January 2016.\\nWhich of the statements given above are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "India ratified the Trade Facilitation Agreement of WTO in 2016. TFA was an outcome of the WTO's 9th Bali (Indonesia) Ministerial package of 2013. However, it came into force in February 2017, not in January 2016.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-060",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "Consider the following in respect of the (IONS):\\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.\\n2. IONS is a voluntary initiative that seeks to increase maritime cooperation among navies of the littoral states of the Indian Ocean Region.\\nWhich of the above statements is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "B",
+    "explanation": "The inaugural IONS Seminar was held by the Indian Navy in 2008, not in 2015. IONS is indeed a voluntary initiative that seeks to increase maritime cooperation among navies of the littoral states of the Indian Ocean Region by providing an open and inclusive forum for discussion of regionally relevant maritime issues.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-056",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "With reference to 'Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)', Consider the following statements:\\n1. It was established very recently in response to incidents of piracy and accidents of oil spills.\\n2. It is an alliance meant for maritime security only.\\nWhich of the following statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Indian Ocean Rim Association for Regional Cooperation (IOR-ARC) was established in Mauritius in March 1997 with the aim of promoting economic and technical cooperation, not in response to incidents of piracy and accidents of oil spills. It is not meant for maritime security only, but aims to create a platform for trade, and socio-economic and cultural cooperation in the Indian Ocean rim area.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-057",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "India is a member of which of the following?\\n1. Asia-Pacific Economic Cooperation\\n2. Association of South-East Asian Nations\\n3. East Asia Summit\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "1, 2 and 3",
+      "D": "India is a member of none of them"
+    },
+    "correct_answer": "B",
+    "explanation": "India is not a member of the Asia-Pacific Economic Cooperation (APEC) or the Association of Southeast Asian Nations (ASEAN). However, India is a member of the East Asia Summit (EAS), which is the Indo-Pacific's premier forum for strategic dialogue. The EAS has 18 members, including India.",
+    "subject": "International Relations",
+    "topic": "International Groups and Political Organizations",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-065",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following countries:\\n1. Armenia\\n2. Azerbaijan\\n3. Croatia\\n4. Romania\\n5. Uzbekistan\\nWhich of the above are members of the Organization of Turkic States?",
+    "options": {
+      "A": "1, 2 and 4 only",
+      "B": "1 and 3 only",
+      "C": "2 and 5 only",
+      "D": "3, 4 and 5 only"
+    },
+    "correct_answer": "C",
+    "explanation": "The Organization of Turkic States (formerly called the Cooperation Council of Turkic Speaking States - Turkic Council) was established in 2009. Its four founding member states are Azerbaijan, Kazakhstan, Kyrgyzstan, and Türkiye. Uzbekistan joined as a full member in 2019. Hungary has observer status, and Turkmenistan joined as an Observer Member in 2021.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-066",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+    "options": {
+      "A": "It is generally believed that they are artificial islands made by a country around the South China Sea.",
+      "B": "China and Japan engage in maritime disputes over these islands in the East China Sea.",
+      "C": "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "D": "Though the International Court of Justice declared them as no man's land, some South-East Asian countries claim them."
+    },
+    "correct_answer": "B",
+    "explanation": "The Senkaku Islands are the subject of a 50-year-old controversy between Japan, the People's Republic of China (PRC), and Taiwan over sovereignty. These are tiny, uninhabited islets and rocks in the East China Sea, administered by Japan.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-067",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Which one of the following statements best describes the 'Polar Code'?",
+    "options": {
+      "A": "It is the international code of safety for ships operating in polar waters.",
+      "B": "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.",
+      "C": "It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.",
+      "D": "It is a trade and security agreement of the member countries of the Arctic Council."
+    },
+    "correct_answer": "A",
+    "explanation": "The Polar Code is an international code adopted by the International Maritime Organization to provide for safe ship operation and environmental protection in the polar regions.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-068",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nCountry : Important reason for being in the news recently\\n1. Chad : Setting up of permanent military base by China\\n2. Guinea : Suspension of Constitution and Government by military\\n3. Lebanon : Severe and prolonged economic depression\\n4. Tunisia : Suspension of Parliament by President\\nHow many pairs given above are correctly matched?",
+    "options": {
+      "A": "Only one pair",
+      "B": "Only two pairs",
+      "C": "Only three pairs",
+      "D": "All four pairs"
+    },
+    "correct_answer": "C",
+    "explanation": "Three pairs are correctly matched. Guinea experienced a military coup, Lebanon faced a severe economic crisis, and Tunisia's president suspended the parliament. However, China did not set up a permanent military base in Chad.",
+    "subject": "International Relations",
+    "topic": "Places in news (2022)",
+    "passage": null,
+    "image_url": null
+  }
+]

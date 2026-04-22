@@ -1,0 +1,452 @@
+[
+  {
+    "id": "2024-036",
+    "year": 2024,
+    "paper": "GS1",
+    "question": "Who of the following rulers of medieval India gave permission to the Portuguese to build a fort at Bhatkal?",
+    "options": {
+      "A": "Krishnadevaraya",
+      "B": "Narasimha Saluva",
+      "C": "Muhammad Shah III",
+      "D": "Yusuf Adil Shah"
+    },
+    "correct_answer": "A",
+    "explanation": "Emperor Krishnadevaraya allowed the Portuguese to build a fort in Bhatkal in 1510.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2023-008",
+    "year": 2023,
+    "paper": "GS1",
+    "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and canal-cum-aqueduct several kilometres long from the river to the capital city?",
+    "options": {
+      "A": "Devaraya I",
+      "B": "Mallikarjuna",
+      "C": "Vira Vijaya",
+      "D": "Virupaksha"
+    },
+    "correct_answer": "A",
+    "explanation": "Devaraya I is known for building irrigation systems, including a large dam. Mallikarjuna, Vira Vijaya, and Virupaksha were later rulers of the Vijayanagara Empire who did not contribute significantly to large-scale water infrastructure projects.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-008",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "With reference to Indian history, consider the following statements:\\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.\\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.\\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 only",
+      "C": "1 and 3",
+      "D": "3 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is incorrect: The first Mongol invasion of India took place in the reign of Sultan Shams-ud-din Iltutmish.\\nStatement 2 is correct: The Mongols besieged the city during the reign of Alauddin Khilji.\\nStatement 3 is incorrect: Mongols did not annex the North-West part of the kingdom of Muhammad-bin-Tughlaq.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-011",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.\\n2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.\\n3. It was during the region of Deva Raya II of the Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2",
+      "C": "3 only",
+      "D": "2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Statement 1 is correct: When Iltutmish ascended the throne, Chengiz Khan threatened the North-West Frontier of the Sultanate.\\nStatement 2 is not correct: Muhammad bin Tughluq reigned from 1324 to 1351. Taimur occupied Multan and crossed the river in 1398.\\nStatement 3 is not correct: Vasco da Gama reached the coast of Kozhikode (Calicut), Kerala, in 1498. During this time, Narasimha Raya II was the ruler of the Vijayanagara Empire.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-011",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. In the revenue administration of the Delhi Sultanate, the in charge of revenue collection was known as 'Amil'.\\n2. The iqta system of Sultans of Delhi was an ancient indigenous institution.\\n3. The office of 'Mir Bakshi' came into existence during the reign of Khalji Sultans of Delhi.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "1 and 2 only",
+      "C": "3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A",
+    "explanation": "Statement 1 is correct: Amil is the officer who collected land revenue and other taxes.\\nStatement 2 is not correct: The Iqta system evolved in West Asia significantly in Persia. It was not an ancient indigenous institution.\\nStatement 3 is not correct: Mir Bakshi was the head of the military department that came into existence in Mughal India and not Delhi Sultanate.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-011",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "Banjaras during the medieval period of Indian history were",
+    "options": {
+      "A": "Agriculture",
+      "B": "Warriors",
+      "C": "Weavers",
+      "D": "Traders"
+    },
+    "correct_answer": "D",
+    "explanation": "Banjaras during the medieval period of Indian history were generally traders. They were the trading groups that moved from one place to another in buying and selling goods.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-012",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "With reference to the economic history of medieval India, the term 'Araghatta' refers to",
+    "options": {
+      "A": "bonded labor",
+      "B": "land grants made to military officers",
+      "C": "waterwheel used in the irrigation of land",
+      "D": "wasteland converted to cultivated land"
+    },
+    "correct_answer": "C",
+    "explanation": "The term 'Araghatta' comes from the combination of the words 'ara' meaning spoke and 'ghatta' meaning pot. It is a Persian wheel used in irrigation in medieval India. It is a mechanical device used to lift water.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-010",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?\\n1. A very strong centralized political authority and a very weak provincial or local political authority.\\n2. The emergence of an administrative structure based on control and possession of the land.\\n3. Creation of lord-vassal relationship between the feudal lord and his overlord.\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: A very strong centralized political authority and a very weak provincial or local political authority was not a common feature of the feudal system.\\nStatement 2 and statement 3 are correct: The feudal system involved an administrative structure based on control and possession of land, and the creation of lord-vassal relationships.",
+    "subject": "Medieval India",
+    "topic": "Delhi Sultanate (1206 AD to 1526 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-009",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "\"Yogavasistha\" was translated into Persian by Nizamuddin Panipati during the reign of:",
+    "options": {
+      "A": "Akbar",
+      "B": "Humayun",
+      "C": "Shahjahan",
+      "D": "Aurangzeb"
+    },
+    "correct_answer": "A",
+    "explanation": "YogaVasistha was translated into Persian multiple times throughout the Mughal Dynasty, as commanded by Akbar, Jahangir, and Darah Shikuh. Nizam al-Din Panipati completed one of these translations, known as the Jug-Basisht, in the late sixteenth century AD.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-012",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?\\n(a) Paragana—Sarkar—Suba\\n(b) Sarkar—Paragana—Suba\\n(c) Suba—Sarkar—Paragana\\n(d) Paragana—Suba—Sarkar",
+    "options": {
+      "A": "Paragana—Sarkar—Suba",
+      "B": "Sarkar—Paragana—Suba",
+      "C": "Suba—Sarkar—Paragana",
+      "D": "Paragana—Suba—Sarkar"
+    },
+    "correct_answer": "A",
+    "explanation": "During the Mughal time, there were large provinces called Suba. Every Suba was divided into several Sarkars or districts. Each Sarkar was divided into smaller units called Parganas. So, the correct order is Paragana - Sarkar – Suba.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-012",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Who among the following Mughal Emperors shifted emphasis from illustrated manuscripts to the album and individual portraits?",
+    "options": {
+      "A": "Humayun",
+      "B": "Akbar",
+      "C": "Jahangir",
+      "D": "Shah Jahan"
+    },
+    "correct_answer": "C",
+    "explanation": "Akbar's reign saw illustrations of manuscripts, the prominent being Razmnama which is the Persian translation of Mahabharata. It was during Jahangir's reign that manuscripts became less important and there was more focus on individual portraits. Under Jahangir, paintings acquired greater charm, refinement, and dignity.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-013",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "With reference to Mian Tansen, which one of the following statements is not correct?",
+    "options": {
+      "A": "Tansen was the title given to him by Emperor Akbar.",
+      "B": "Tansen composed Dhrupads on Hindu gods and goddesses.",
+      "C": "Tansen composed songs for his patrons.",
+      "D": "Tansen invented many Ragas."
+    },
+    "correct_answer": "A",
+    "explanation": "Tansen was a court musician in the darbar of Raja Ram Chandra of Bandavagarh (Rewa). Tansen was the title given to him by Raja Vikramjit of Gwalior. Tansen is also known as the 'Sangit Samrat', according to Musical Heritage of India by Lalita Ramakrishna.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-014",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?\\n1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.\\n2. Land assignments to Jagirdars were hereditary and the revenue rights of Zamindars were not hereditary.\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Both statements are incorrect. Jagirdars were mansabdars given salary in lieu of military services in terms of jagirs (land). Zamindars were local elite who exercised authority in their areas. Land assignments to Jagirdars were not hereditary, while Zamindars' positions were hereditary.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-011",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Consider the following:\\nThe arrival of Babur into India led to the\\n1. introduction of gunpowder\\n2. introduction of the arch and dome in the region's architecture\\n3. establishment of the Timurid dynasty\\nSelect the correct answer using the code given below:",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "B",
+    "explanation": "Gunpowder was introduced by the Mongols in the 13th century. Arch and dome architecture was prevalent during the Delhi Sultanate. Babur established the Timurid dynasty in India, known as the Mughal Empire.",
+    "subject": "Medieval India",
+    "topic": "Mughal Empire (1526 AD to 1761 AD)",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-010",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "In medieval India, the term \"Fanam\" referred to:",
+    "options": {
+      "A": "Clothing",
+      "B": "Coins",
+      "C": "Ornaments",
+      "D": "Weapons"
+    },
+    "correct_answer": "B",
+    "explanation": "During the Vijaynagar Empire, Fanams were coins used in day-to-day life. Fanam was usually a small fraction of the main currency (Pagoda or Varaha). The Travancore Fanam was a form of money issued by the State of Travancore in South India, which is today mostly a part of Kerala. Fanams and Chuckrams were renowned to be among the world's tiniest coins.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2022-011",
+    "year": 2022,
+    "paper": "GS1",
+    "question": "Consider the following pairs :\\nKing Dynasty\\n1. Nannuka Chandela\\n2. Jayashakti Paramara\\n3. Nagabhata II Gurjara-Pratihara\\n4. Bhoja Rashtrakuta\\n\\nHow many pairs given above are correctly matched?",
+    "options": {
+      "A": "Only one pair",
+      "B": "Only two pairs",
+      "C": "Only three pairs",
+      "D": "All four pairs"
+    },
+    "correct_answer": "B",
+    "explanation": "Pair 1 is correct: Nanuka was the founder of the Chandela Dynasty.\\nPair 2 is incorrect: Jayashakti was also a Chandela Ruler.\\nPair 3 is correct: Nagabhata II belonged to the Gurjara Pratihara Dynasty.\\nPair 4 is incorrect: Bhoja was a Parmara.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-013",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "With reference to Indian history, which of the following statements is/are correct?\\n1. The Nizamat of Arcot emerged out of Hyderabad state.\\n2. The Mysore kingdom emerged out of Vijayanagara Empire.\\n3. Rohilkhand kingdom was formed out of the territories occupied by Ahmad Shah Durrani.",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 only",
+      "C": "2 and 3",
+      "D": "3 only"
+    },
+    "correct_answer": "B",
+    "explanation": "Statement 1 is not correct: Nizamat of Arcot was established by Mughal Emperor Aurangzeb and was the legal dependency of the Nizam of Hyderabad; it did not emerge from the Hyderabad state.\\nStatement 2 is correct: Mysore was transformed from a viceroyalty of the Vijayanagara Empire into an autonomous state by the Wodeyar dynasty.\\nStatement 3 is not correct: The states of Rohilkhand and the kingdom of the Bangash Pathans were a fallout of the Afghan migration into India. Ali Muhammad Khan took advantage of the collapse of authority in North India following Nadir Shah's invasion to set up a petty kingdom, Rohilkhand.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2018-017",
+    "year": 2018,
+    "paper": "GS1",
+    "question": "Which one of the following foreign travellers elaborately discussed diamonds and diamond mines of India?",
+    "options": {
+      "A": "Francois Bernier",
+      "B": "Jean-Baptiste Tavernier",
+      "C": "Jean de Thevenot",
+      "D": "Abbe Barthelemy Carre"
+    },
+    "correct_answer": "B",
+    "explanation": "Jean-Baptiste Tavernier (1605‒89) was one of the most renowned travellers of 17th-century Europe. He was a jewel merchant who between 1632 and 1668 made six voyages to the East. While on his travels to India he discovered and discussed diamonds and diamond mines of India extensively.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2017-010",
+    "year": 2017,
+    "paper": "GS1",
+    "question": "Which one of the following was a very important seaport in the Kakatiya kingdom?",
+    "options": {
+      "A": "Kakinada",
+      "B": "Motupalli",
+      "C": "Machilipatnam (Masulipatnam)",
+      "D": "Nelluru"
+    },
+    "correct_answer": "B",
+    "explanation": "Motupalli was an important seaport in the kingdom of Ganpati (an important Kakatiya ruler), frequented by foreign merchants. Italian traveler Marco Polo who had visited the port in 1287 AD, had given a vivid account on the flourishing trade activities at the port during the reign of Kakatiya queen Rudrama Devi.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-013",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "Regarding the taxation systems of Krishna Deva, the ruler of Vijayanagar, consider the following statements:\\n1. The tax rate of land was fixed depending on the quality of the land.\\n2. Private owners of workshops paid an industry tax.\\n\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is correct: In the reign of Krishna Deva, the entire land was classified into four parts: the wetland, the dry land, the orchards, and the woods and the tax rate of land was fixed depending on the quality of the land.\\nStatement 2 is correct: Besides land tax, the government also levied other taxes. Private owners of workshops paid an industry tax.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-012",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Consider the following pairs:\\nMedieval Indian State Present Region\\n1. Champaka Central India\\n2. Durgara Jammu\\n3. Kuluta Malabar\\n\\nWhich of the above pairs is/are correctly matched?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 only",
+      "C": "1 and 3 only",
+      "D": "3 only"
+    },
+    "correct_answer": "B",
+    "explanation": "The foothills of the Himalayas lent themselves quite well to such small kingdoms, owing to the nature of the country. The ninth century saw the rise of several hill states, some of which maintained their identity until recent years. States such as Champaka (Chamba in Himachal Pradesh), Durgara (Jammu), Trigarta (Jalandhar), Kuluta (Kulu in Himachal Pradesh), Kumaon and Garhwal managed to remain outside the main areas of conflict in the northern plains.",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2015-013",
+    "year": 2015,
+    "paper": "GS1",
+    "question": "Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong?",
+    "options": {
+      "A": "Amoghavarsha I",
+      "B": "Ballala II",
+      "C": "Harihara I",
+      "D": "Prataparudra II"
+    },
+    "correct_answer": "C",
+    "explanation": "Vijayanagara or \"city of victory\", was the name of both a city and an empire. Harihara I and Bukka founded the Vijayanagar Empire in the fourteenth century. It stretched from the river Krishna in the north to the extreme south of the Peninsula (Krishna-Tungabhadra doab). Harihara I established control over the valley of the Tungabhadra River (a tributary of Krishna).",
+    "subject": "Medieval India",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2021-014",
+    "year": 2021,
+    "paper": "GS1",
+    "question": "According to Portuguese writer Nuniz, the women in the Vijayanagara Empire were experts in which of the following areas?\\n1. Wrestling\\n2. Astrology\\n3. Accounting\\n4. Soothsaying\\nSelect the correct answer using the code given below.",
+    "options": {
+      "A": "1, 2 and 3 only",
+      "B": "1, 3 and 4 only",
+      "C": "2 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "correct_answer": "D",
+    "explanation": "Founded in 1336, Vijayanagara, literally 'city of victory', attracted a number of international travellers such as the Italian, Niccolo di Conti, the Portuguese Domingo Paes, Fernao Nuniz and Duarte Barbosa and the Afghan Abd, al-Razzaq, who have left vivid accounts of the city. Fernao Nuniz was a Portuguese traveller, chronicler and horse trader who spent three years in Vijayanagara. Nuniz writes: 'he (the king of Vijaynagar) has also women who wrestle, and others who are astrologers and soothsayers; and he has a woman who writes all the accounts of expenses that are incurred inside the gates and others whose duty it is to write all the affairs of the kingdom and compare their books with those of the writers outside; he has women also for music, who play instruments and sing. Even the wives of the king are well versed in music…it is said that he has judges, as well as bailiffs and watchmen who every night guard the palace, and these are women.'",
+    "subject": "Medieval India",
+    "topic": "Religious Movement during Medieval Period",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2019-015",
+    "year": 2019,
+    "paper": "GS1",
+    "question": "Consider the following statements:\\n1. Saint Nimbarka was a contemporary of Akbar.\\n2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Statement 1 is not correct: Saint Nimbarka was not a contemporary of Akbar because the history of Akbar dates down to the 16th century AD (1556 to 1605 AD). Akbar was the son of Humayun, who ruled over India for 26 years. The advent of the Mughal rule brought rich culture and ethical changes in India. Nimbarka, also called Nimbaditya or Niyamananda, was a Telugu-speaking Brahman who flourished in the 13th century in South India. He was a yogi, philosopher, and prominent astronomer.\\n\\nStatement 2 is not correct: Sant Kabir Das was a renowned saint, poet and social reformer of India who lived during the 15th century. His writings significantly influenced the Bhakti movement. Some of his famous writings include 'Sakhi Granth', 'Anurag Sagar', 'Bijak' and 'Kabir Granthawali'. He also founded a religious community named 'Kabir Panth' whose members are referred to as 'Kabir Panthis', implying the followers of Kabir Das. Vaishnava saint Swami Ramananda, who accepted Kabir as his disciple, greatly influenced his ideologies. Saint Kabir was 15th century poet whereas Sirhindi was in 17th century.",
+    "subject": "Medieval India",
+    "topic": "Religious Movement during Medieval Period",
+    "passage": null,
+    "image_url": null
+  },
+  {
+    "id": "2016-014",
+    "year": 2016,
+    "paper": "GS1",
+    "question": "With reference to the cultural history of medieval India, consider the following statements:\\n1. Siddhas (sittars) of the Tamil region were monotheistic and condemned idolatry.\\n2. Lingayats of the Kannada region questioned the theory of rebirth and rejected the caste hierarchy.\\nWhich of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement 1 is correct: Siddhas (Sittars) of the Tamil region were monotheistic (who are characterized by the belief that there is only one God) and they condemned idolatry, they advocated renunciation of the world.\\n\\nStatement 2 is correct: Lingayats are the followers of the 12th-century social reformer-philosopher poet, Basaveshwara. Basaveshwara was against the caste system and Vedic rituals. The term Lingayat denotes a person who wears a personal linga, an iconic form of the god Shiva, on the body which is received during the initiation ceremony. The Lingayats are strict monotheists. They enjoin the worship of only one God, namely, Linga (Shiva). They also questioned the theory of rebirth. They believed that on death, the devotee will be united with Shiva and will not return to this world.",
+    "subject": "Medieval India",
+    "topic": "Religious Movement during Medieval Period",
+    "passage": null,
+    "image_url": null
+  }
+]
