@@ -6,6 +6,14 @@
 <title>UPSC Prelims GS Paper 1 — PYQ Practice (2015–2024) · therachitagarwal.com/upsc</title>
 <meta name="description" content="Practice 1,053 UPSC Civil Services Prelims GS Paper 1 previous-year questions (2015–2024). Browse, answer, and build shareable custom quizzes by year, topic, and subtopic.">
 <link rel="canonical" href="https://therachitagarwal.com/upsc/">
+<!-- Microsoft Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "wfjmksujz4");
+</script>
 <style>
   :root {
     --bg: #0f172a;
@@ -53,17 +61,47 @@
     backdrop-filter: blur(8px);
   }
   .wrap { max-width: 1100px; margin: 0 auto; }
-  h1 { margin: 0 0 2px; font-size: 22px; font-weight: 700; letter-spacing: -.01em; }
+  .header-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  h1 { margin: 0 0 2px; font-size: 22px; font-weight: 700; letter-spacing: -.015em; }
   .sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
   .sub a { color: var(--accent); text-decoration: none; }
   .sub a:hover { text-decoration: underline; }
+
+  .help-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 12px;
+    border-radius: 999px;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: border-color .15s ease, color .15s ease, background .15s ease, transform .08s ease;
+    flex: 0 0 auto;
+  }
+  .help-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 8%, var(--panel-2));
+  }
+  .help-btn:active { transform: scale(0.97); }
+  .help-btn svg { width: 14px; height: 14px; }
 
   .tabs {
     display: inline-flex;
     background: var(--panel-2);
     border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 3px;
+    border-radius: 12px;
+    padding: 4px;
     margin-bottom: 14px;
     gap: 2px;
   }
@@ -71,16 +109,20 @@
     background: transparent;
     color: var(--muted);
     border: 0;
-    padding: 7px 14px;
-    border-radius: 7px;
+    padding: 8px 16px;
+    border-radius: 9px;
     font-size: 13px;
     font-weight: 600;
     cursor: pointer;
     font-family: inherit;
-    transition: background .15s ease, color .15s ease;
+    transition: background .18s ease, color .18s ease, box-shadow .18s ease;
   }
-  .tab.active { background: var(--accent); color: #001015; }
-  .tab:hover:not(.active) { color: var(--text); }
+  .tab.active {
+    background: var(--accent);
+    color: #001015;
+    box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 30%, transparent);
+  }
+  .tab:hover:not(.active) { color: var(--text); background: color-mix(in srgb, var(--text) 6%, transparent); }
 
   .controls {
     display: grid;
@@ -95,17 +137,18 @@
     background: var(--bg);
     color: var(--text);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 10px 12px;
     font-size: 14px;
     outline: none;
-    transition: border-color .15s ease, box-shadow .15s ease;
+    transition: border-color .15s ease, box-shadow .15s ease, background .15s ease;
     font-family: inherit;
     width: 100%;
   }
+  input[type="search"]:hover, input[type="number"]:hover, select:hover { border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
   input[type="search"]:focus, input[type="number"]:focus, select:focus {
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(56,189,248,.18);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 18%, transparent);
   }
 
   .statsbar {
@@ -127,18 +170,22 @@
     font-size: 12px;
     color: var(--text);
     margin-right: 4px;
+    transition: border-color .15s ease, color .15s ease;
   }
+  .statsbar .chip:hover { border-color: var(--accent); color: var(--accent); }
   .reset-btn, .btn-ghost {
     background: transparent;
     color: var(--accent);
     border: 1px solid transparent;
     font-size: 13px;
     cursor: pointer;
-    padding: 6px 10px;
-    border-radius: 6px;
+    padding: 7px 12px;
+    border-radius: 9px;
     font-family: inherit;
+    font-weight: 500;
+    transition: background .15s ease, color .15s ease;
   }
-  .reset-btn:hover, .btn-ghost:hover { background: var(--panel-2); }
+  .reset-btn:hover, .btn-ghost:hover { background: color-mix(in srgb, var(--accent) 10%, transparent); }
 
   main { max-width: 1100px; margin: 0 auto; padding: 20px; }
 
@@ -152,11 +199,16 @@
   .q-card {
     background: var(--panel);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 18px 20px;
+    border-radius: 14px;
+    padding: 20px 22px;
     margin-bottom: 14px;
     box-shadow: var(--shadow);
+    transition: border-color .18s ease, box-shadow .18s ease;
   }
+  .q-card:hover { border-color: color-mix(in srgb, var(--accent) 30%, var(--border)); }
+  [title] { cursor: help; }
+  button[title], a[title], label[title], .year-check[title] { cursor: pointer; }
+  input[title], select[title] { cursor: auto; }
   .q-meta {
     display: flex;
     flex-wrap: wrap;
@@ -198,20 +250,23 @@
     margin: 0 0 12px;
   }
   ol.options li {
-    padding: 10px 12px;
-    margin: 6px 0;
+    padding: 11px 14px;
+    margin: 7px 0;
     background: var(--panel-2);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 10px;
     font-size: 14px;
     display: flex;
     gap: 10px;
     align-items: flex-start;
     cursor: pointer;
-    transition: border-color .12s ease, background .12s ease, transform .05s ease;
+    transition: border-color .12s ease, background .12s ease, transform .06s ease, box-shadow .15s ease;
     user-select: none;
   }
-  ol.options li:hover:not(.disabled) { border-color: var(--accent); }
+  ol.options li:hover:not(.disabled) {
+    border-color: color-mix(in srgb, var(--accent) 55%, var(--border));
+    background: color-mix(in srgb, var(--accent) 5%, var(--panel-2));
+  }
   ol.options li:active:not(.disabled) { transform: scale(0.997); }
   ol.options li .lbl {
     font-weight: 700;
@@ -247,21 +302,25 @@
     background: var(--accent);
     color: #001015;
     border: none;
-    padding: 8px 14px;
-    border-radius: 6px;
+    padding: 9px 16px;
+    border-radius: 9px;
     font-size: 13px;
     font-weight: 600;
     cursor: pointer;
     font-family: inherit;
+    transition: background .15s ease, color .15s ease, box-shadow .18s ease, transform .08s ease;
+    box-shadow: 0 1px 2px rgba(0,0,0,.08), 0 2px 8px color-mix(in srgb, var(--accent) 25%, transparent);
   }
-  .reveal-btn:hover, .btn:hover { background: var(--accent-2); color: #fff; }
+  .reveal-btn:hover, .btn:hover { background: var(--accent-2); color: #fff; box-shadow: 0 2px 4px rgba(0,0,0,.12), 0 4px 14px color-mix(in srgb, var(--accent) 40%, transparent); }
+  .reveal-btn:active, .btn:active { transform: scale(0.97); }
   .btn.secondary {
     background: var(--panel-2);
     color: var(--text);
     border: 1px solid var(--border);
+    box-shadow: none;
   }
-  .btn.secondary:hover { border-color: var(--accent); color: var(--accent); background: var(--panel-2); }
-  .btn:disabled { opacity: .4; cursor: not-allowed; }
+  .btn.secondary:hover { border-color: var(--accent); color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, var(--panel-2)); box-shadow: none; }
+  .btn:disabled { opacity: .4; cursor: not-allowed; box-shadow: none; transform: none; }
 
   .answer {
     margin-top: 10px;
@@ -337,12 +396,12 @@
   .card {
     background: var(--panel);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 22px;
+    border-radius: 16px;
+    padding: 24px;
     box-shadow: var(--shadow);
     margin-bottom: 16px;
   }
-  .card h2 { margin: 0 0 4px; font-size: 20px; }
+  .card h2 { margin: 0 0 4px; font-size: 20px; letter-spacing: -.01em; }
   .card .lede { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
 
   .field-grid {
@@ -364,26 +423,65 @@
   .year-checkbox-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 6px;
+    gap: 8px;
   }
   @media (max-width: 640px) { .year-checkbox-grid { grid-template-columns: repeat(3, 1fr); } }
   .year-check {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 4px;
-    border: 1px solid var(--border);
+    gap: 6px;
+    border: 1.5px solid var(--border);
     background: var(--panel-2);
-    border-radius: 6px;
-    padding: 8px 6px;
+    border-radius: 10px;
+    padding: 10px 8px;
     cursor: pointer;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     user-select: none;
     color: var(--muted);
+    transition: background .15s ease, color .15s ease, border-color .15s ease, transform .08s ease, box-shadow .15s ease;
   }
-  .year-check.on { background: var(--accent); color: #001015; border-color: var(--accent); }
-  .year-check input { display: none; }
+  .year-check:hover:not(.on) {
+    border-color: var(--accent);
+    color: var(--text);
+    background: color-mix(in srgb, var(--accent) 8%, var(--panel-2));
+  }
+  .year-check:active { transform: scale(0.97); }
+  .year-check .tick {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1.5px solid currentColor;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    opacity: .5;
+    transition: opacity .15s ease, background .15s ease, border-color .15s ease;
+  }
+  .year-check .tick svg { width: 9px; height: 9px; stroke-width: 3; opacity: 0; transition: opacity .15s ease; }
+  .year-check.on {
+    background: var(--accent);
+    color: #001015;
+    border-color: var(--accent);
+    box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 35%, transparent);
+  }
+  .year-check.on .tick { background: #fff; border-color: #fff; opacity: 1; color: var(--accent-2); }
+  .year-check.on .tick svg { opacity: 1; }
+  .year-check input { position: absolute; opacity: 0; pointer-events: none; }
+  .year-hint {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-top: 8px;
+    font-size: 12px;
+    color: var(--muted);
+    flex-wrap: wrap;
+  }
+  .year-hint strong { color: var(--accent); font-weight: 700; }
 
   .pill-row {
     display: flex;
@@ -396,13 +494,16 @@
     background: transparent;
     border: 1px solid var(--border);
     color: var(--muted);
-    border-radius: 6px;
-    padding: 3px 8px;
+    border-radius: 999px;
+    padding: 4px 12px;
     cursor: pointer;
     font-family: inherit;
     font-size: 12px;
+    font-weight: 500;
+    transition: color .15s ease, border-color .15s ease, background .15s ease, transform .08s ease;
   }
-  .pill-btn:hover { color: var(--accent); border-color: var(--accent); }
+  .pill-btn:hover { color: var(--accent); border-color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+  .pill-btn:active { transform: scale(0.96); }
 
   .builder-actions {
     display: flex;
@@ -501,22 +602,38 @@
 <body>
 <header>
   <div class="wrap">
-    <h1>UPSC Prelims GS Paper 1 — PYQ Practice</h1>
-    <div class="sub">
-      <span id="totalCount">1,053</span> questions · 2015&ndash;2024 ·
-      <a href="https://therachitagarwal.com/upsc/">therachitagarwal.com/upsc</a> ·
-      original papers: <a href="https://upsc.gov.in/examinations/previous-question-papers" target="_blank" rel="noopener">upsc.gov.in</a>
+    <div class="header-top">
+      <div>
+        <h1>UPSC Prelims GS Paper 1 — PYQ Practice</h1>
+        <div class="sub">
+          <span id="totalCount">1,053</span> questions · 2015&ndash;2024 ·
+          <a href="https://therachitagarwal.com/upsc/">therachitagarwal.com/upsc</a> ·
+          original papers: <a href="https://upsc.gov.in/examinations/previous-question-papers" target="_blank" rel="noopener">upsc.gov.in</a>
+        </div>
+      </div>
+      <a class="help-btn" href="https://forms.gle/aNQUiGDhpXysrbsK7" target="_blank" rel="noopener"
+         title="Report a bug, suggest a feature, or ask for help — opens a Google Form">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M9.1 9a3 3 0 1 1 5.8 1c0 2-3 2-3 4"/>
+          <circle cx="12" cy="17" r="0.9" fill="currentColor" stroke="none"/>
+        </svg>
+        Help &amp; Feedback
+      </a>
     </div>
     <div class="tabs" role="tablist">
-      <button class="tab active" data-view="browse" role="tab">Browse &amp; Practice</button>
-      <button class="tab" data-view="builder" role="tab">Custom Quiz</button>
+      <button class="tab active" data-view="browse" role="tab"
+              title="Browse all 1,053 questions. Filter by year, topic or subtopic and tap an option to instantly grade it.">Browse &amp; Practice</button>
+      <button class="tab" data-view="builder" role="tab"
+              title="Build a custom randomized quiz. Pick years, topic, and question count. Generates a shareable link.">Custom Quiz</button>
     </div>
     <div id="browseControls" class="controls">
-      <input id="search" type="search" placeholder="Search question text, options, or explanation…" autocomplete="off">
-      <select id="yearFilter" aria-label="Filter by year"><option value="">All years</option></select>
-      <select id="topicFilter" aria-label="Filter by topic"><option value="">All topics</option></select>
-      <select id="subtopicFilter" aria-label="Filter by subtopic"><option value="">All subtopics</option></select>
-      <button class="reset-btn" id="resetBtn" type="button">Reset</button>
+      <input id="search" type="search" placeholder="Search question text, options, or explanation…" autocomplete="off"
+             title="Matches appear anywhere in the question, options, or explanation. Highlights live as you type.">
+      <select id="yearFilter" aria-label="Filter by year" title="Show questions from a specific UPSC Prelims year only."><option value="">All years</option></select>
+      <select id="topicFilter" aria-label="Filter by topic" title="Narrow by subject (History, Polity, Economy, Geography, Environment, S&amp;T, Current Affairs, etc.)."><option value="">All topics</option></select>
+      <select id="subtopicFilter" aria-label="Filter by subtopic" title="Further narrow to a specific subtopic within the selected subject."><option value="">All subtopics</option></select>
+      <button class="reset-btn" id="resetBtn" type="button" title="Clear all filters and the search box.">Reset</button>
     </div>
     <div id="browseStats" class="statsbar">
       <div id="counts">Loading…</div>
@@ -541,36 +658,39 @@
       <div class="field-grid">
         <div class="field" style="grid-column: 1 / -1;">
           <label>Years</label>
-          <div id="yearChecks" class="year-checkbox-grid"></div>
-          <div class="pill-row">
-            <button class="pill-btn" type="button" data-years="all">All years</button>
-            <button class="pill-btn" type="button" data-years="none">None</button>
-            <button class="pill-btn" type="button" data-years="recent">Last 3 years</button>
+          <div id="yearChecks" class="year-checkbox-grid" title="Tap a year to toggle it on or off. Selected years are highlighted with a checkmark."></div>
+          <div class="year-hint">
+            <span><strong id="yearSelCount">0</strong> of <span id="yearTotalCount">0</span> years selected · tap a year to toggle</span>
+            <div class="pill-row">
+              <button class="pill-btn" type="button" data-years="all" title="Select every year">All years</button>
+              <button class="pill-btn" type="button" data-years="none" title="Deselect every year">None</button>
+              <button class="pill-btn" type="button" data-years="recent" title="Select only the three most recent years">Last 3 years</button>
+            </div>
           </div>
         </div>
 
         <div class="field">
           <label for="bTopic">Topic</label>
-          <select id="bTopic"><option value="">All topics</option></select>
+          <select id="bTopic" title="Limit questions to a specific subject (optional)."><option value="">All topics</option></select>
         </div>
         <div class="field">
           <label for="bSubtopic">Subtopic</label>
-          <select id="bSubtopic"><option value="">All subtopics</option></select>
+          <select id="bSubtopic" title="Further narrow to a subtopic within the chosen subject (optional)."><option value="">All subtopics</option></select>
         </div>
 
         <div class="field">
           <label for="bCount">Number of questions</label>
-          <input id="bCount" type="number" min="1" max="1000" value="20" step="1">
+          <input id="bCount" type="number" min="1" max="1000" value="20" step="1" title="How many questions to include. Capped at the size of the matching pool.">
         </div>
         <div class="field">
           <label>Pool available</label>
-          <div id="bPool" style="padding:10px 0;color:var(--muted);font-size:14px;">&mdash;</div>
+          <div id="bPool" style="padding:10px 0;color:var(--muted);font-size:14px;" title="Number of questions that match your current filters and have an answer key.">&mdash;</div>
         </div>
       </div>
 
       <div class="builder-actions">
-        <button class="btn" id="startQuizBtn" type="button">Start quiz</button>
-        <button class="btn secondary" id="shareConfigBtn" type="button">Copy shareable link</button>
+        <button class="btn" id="startQuizBtn" type="button" title="Begin the quiz immediately with a new randomized selection.">Start quiz</button>
+        <button class="btn secondary" id="shareConfigBtn" type="button" title="Generate a shareable link that gives anyone the exact same quiz, same questions, same order.">Copy shareable link</button>
         <span class="builder-hint">Anyone with the link will get the same quiz, same questions, same order.</span>
       </div>
     </div>
@@ -584,15 +704,15 @@
           <span id="qNum">1</span> / <span id="qTotal">20</span>
         </div>
         <div class="progress"><div id="qProgress"></div></div>
-        <button class="btn-ghost" id="quitQuizBtn" type="button">Exit quiz</button>
+        <button class="btn-ghost" id="quitQuizBtn" type="button" title="Abandon this quiz and go back to the builder. Progress will be lost.">Exit quiz</button>
       </div>
       <div id="quizQuestion"></div>
       <div class="quiz-nav">
-        <button class="btn secondary" id="qPrev" type="button">&larr; Previous</button>
+        <button class="btn secondary" id="qPrev" type="button" title="Go to the previous question (your answers are kept).">&larr; Previous</button>
         <div class="spacer"></div>
-        <button class="btn secondary" id="qShare" type="button">Share quiz</button>
-        <button class="btn" id="qNext" type="button">Next &rarr;</button>
-        <button class="btn" id="qSubmit" type="button" hidden>Submit quiz</button>
+        <button class="btn secondary" id="qShare" type="button" title="Copy a link that gives anyone the exact same quiz.">Share quiz</button>
+        <button class="btn" id="qNext" type="button" title="Go to the next question.">Next &rarr;</button>
+        <button class="btn" id="qSubmit" type="button" hidden title="Submit your answers and see your score + full review.">Submit quiz</button>
       </div>
     </div>
   </section>
@@ -603,9 +723,9 @@
       <p class="score"><span id="rScore">0</span> / <span id="rTotal">0</span></p>
       <div class="pct"><span id="rPct">0%</span> · <span id="rAttempted">0 attempted</span></div>
       <div class="actions">
-        <button class="btn" id="rShareBtn" type="button">Share this quiz</button>
-        <button class="btn secondary" id="rRetakeBtn" type="button">Retake</button>
-        <button class="btn secondary" id="rNewBtn" type="button">New quiz</button>
+        <button class="btn" id="rShareBtn" type="button" title="Copy a link that gives anyone the exact same quiz.">Share this quiz</button>
+        <button class="btn secondary" id="rRetakeBtn" type="button" title="Retake the same quiz from the start — clears your answers.">Retake</button>
+        <button class="btn secondary" id="rNewBtn" type="button" title="Go back to the builder and create a new quiz.">New quiz</button>
       </div>
     </div>
     <h2 style="margin:8px 0 12px;font-size:18px;">Review</h2>
@@ -617,6 +737,11 @@
   Questions originate from the official UPSC Civil Services (Preliminary) Examination published at
   <a href="https://upsc.gov.in/examinations/previous-question-papers" target="_blank" rel="noopener">upsc.gov.in</a>.
   Topic tags are editorial.
+  <div style="margin-top:8px">
+    Spotted a mistake or have feedback?
+    <a href="https://forms.gle/aNQUiGDhpXysrbsK7" target="_blank" rel="noopener"
+       title="Opens the UPSC Help Desk Google Form in a new tab">Report it here</a>.
+  </div>
 </footer>
 
 <div id="toast" class="toast" role="status"></div>
@@ -985,25 +1110,34 @@
   }
 
   // ───── BUILDER ─────
+  function updateYearCounter() {
+    const boxes = document.querySelectorAll('#yearChecks input[type=checkbox]');
+    const selected = [...boxes].filter(c => c.checked).length;
+    const countEl = $('yearSelCount');
+    const totalEl = $('yearTotalCount');
+    if (countEl) countEl.textContent = selected;
+    if (totalEl) totalEl.textContent = boxes.length;
+  }
+
   function populateBuilder() {
     // Years
     const yearsBox = $('yearChecks');
     const years = [...new Set(state.all.map(q => q.year))].sort((a, b) => b - a);
+    const tickSvg = '<span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="5 12 10 17 19 7"/></svg></span>';
     yearsBox.innerHTML = years.map(y => `
-      <label class="year-check on" data-year="${y}">
-        <input type="checkbox" checked value="${y}">
-        ${y}
+      <label class="year-check on" data-year="${y}" title="Toggle ${y} on or off — selected years are included in the quiz pool">
+        <input type="checkbox" checked value="${y}" aria-label="Include ${y}">
+        ${tickSvg}<span class="year-label">${y}</span>
       </label>
     `).join('');
     yearsBox.querySelectorAll('.year-check').forEach(lb => {
       const cb = lb.querySelector('input');
-      const sync = () => {
+      // Native <label>→<input> association handles the toggle on click.
+      // We only need to react to the resulting change to sync UI + counter + pool.
+      cb.addEventListener('change', () => {
         lb.classList.toggle('on', cb.checked);
+        updateYearCounter();
         updatePool();
-      };
-      cb.addEventListener('change', sync);
-      lb.addEventListener('click', (e) => {
-        if (e.target !== cb) { cb.checked = !cb.checked; sync(); }
       });
     });
     document.querySelectorAll('.pill-btn[data-years]').forEach(b => {
@@ -1019,9 +1153,11 @@
         yearsBox.querySelectorAll('.year-check').forEach(lb => {
           lb.classList.toggle('on', lb.querySelector('input').checked);
         });
+        updateYearCounter();
         updatePool();
       });
     });
+    updateYearCounter();
 
     // Topics
     const tSel = $('bTopic');
