@@ -297,6 +297,7 @@
     margin: 20px 0 40px;
     flex-wrap: wrap;
   }
+  .pager[hidden] { display: none; }
   .pager button {
     background: var(--panel);
     border: 1px solid var(--border);
@@ -956,7 +957,7 @@
   function renderPager() {
     const pager = $('pager');
     const total = state.filtered.length;
-    if (total <= PAGE_SIZE) { pager.hidden = true; return; }
+    if (total <= PAGE_SIZE) { pager.innerHTML = ''; pager.hidden = true; return; }
     pager.hidden = false;
     const pages = Math.ceil(total / PAGE_SIZE);
     const cur = state.page;
